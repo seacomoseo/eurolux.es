@@ -1,0 +1,23 @@
+anchor: Trabajos de Louvers
+color: light
+size: md
+more:
+  align: left
+rows:
+- type: gallery
+  design:
+    max: 999
+    alt: true
+    num: 3
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - louvers.jpg
+  - louvers-2.jpg
+  - louvers-3.jpg
+  - louvers-4.jpg
+  - louvers-5.jpg
+  - louvers-6.jpg
+  - louvers-7.jpg

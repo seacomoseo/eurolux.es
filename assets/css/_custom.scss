@@ -1,0 +1,81 @@
+button,
+a.button {
+  font-family: $font-family-base;
+  font-style: $font-style-base;
+  font-weight: $font-weight-base;
+}
+
+
+// Header
+
+#body-inicio #header {
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  .image {
+    // * {
+    //   fill: var(--text);
+    // }
+    .image__inner {
+      border-radius: 0;
+    }
+            @include show-up(1);
+  }
+  .description {
+    p {     @include show-up(2); }
+    .buttons { @include show-up(3); }
+  }
+  h1 + .description {
+    margin-top: 3em;
+  }
+  .column--item-2 {
+            @include show-up(4);
+    @media (min-width: 928px) {
+      width: calc(var(--column-width) * .75);
+    }
+  }
+}
+
+
+// Sections
+
+#nos-caracteriza {
+  .column__header {
+    .h3:after,
+    h3:after {
+      content: "";
+      display: block;
+      width: 2em;
+      height: $menu-bar;
+      background-color: $main;
+      border-radius: .0625em;
+      margin: .125em auto .25em 0;
+    }
+  }
+  @media (min-width: $screen-xl) {
+    .column.align--xl-right {
+      .column__header {
+        .h3:after,
+        h3:after {
+          margin-left: auto;
+          margin-right: 0;
+        }
+      }
+    }
+  }
+  @media (max-width: $screen-xl - 1) {
+    .align-self-center {
+      padding-top: 2em;
+      padding-bottom: 4em;
+    }
+  }
+}
+
+// Products Descriptions
+
+.description ul {
+  margin-left: 0;
+}
+.description + .rows {
+  margin-top: 3em;
+}

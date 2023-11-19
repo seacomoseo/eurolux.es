@@ -1,0 +1,23 @@
+anchor: Trabajos de Toldos Fijos
+color: light
+size: md
+more:
+  align: left
+rows:
+- type: gallery
+  design:
+    max: 999
+    alt: true
+    num: 3
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - toldos-fijos.jpg
+  - toldos-fijos-2.jpg
+  - toldos-fijos-3.jpg
+  - toldos-fijos-4.jpg
+  - toldos-fijos-5.jpg
+  - toldos-fijos-6.jpg
+  - toldos-fijos-7.jpg

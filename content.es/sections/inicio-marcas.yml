@@ -1,0 +1,41 @@
+title: Marcas
+subtitle: En las que confiamos
+color: light
+icon: certificate
+description: |
+  Solo trabajamos e importamos las más prestigiosas marcas europeas para que la calidad y durabilidad en nuestros trabajos hablen por nosotros
+more:
+  align: center
+rows:
+- type: gallery
+  design:
+    max: 999
+    alt: false
+    num: 5
+    wrap: false
+    gap: true
+    cover: false
+    grayscale: true
+  items:
+  - image: logo-grupo-inalsa.svg
+    link: https://www.grupoinalsa.com/
+  - image: logo-saheco.svg
+    link: https://www.saheco.com/
+  - image: logo-gaviota.svg
+    link: https://www.gaviotagroup.com/
+  - image: logo-recasens.svg
+    link: https://recasens.com/
+  - image: logo-vertilux.svg
+    link: https://es.vertilux.com/
+  - image: logo-cortizo.svg
+    link: https://www.cortizo.com/
+  - image: logo-mediterraneo-aluminio.svg
+    link: https://mediterraneoaluminio.com/
+  # - image: logo-alumed.svg
+  #   link: https://alumedsistemas.com/
+  - image: logo-llaza.svg
+    link: https://www.llaza.com/
+  - image: logo-proma.svg
+    link: https://pproma.es/
+  - image: logo-dbgroup.svg
+    link: https://dbgroupherrajes.com/

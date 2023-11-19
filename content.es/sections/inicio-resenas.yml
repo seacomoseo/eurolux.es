@@ -1,0 +1,27 @@
+title: Reseñas
+subtitle: Lo que dicen de nosotros
+color: main-light
+icon: comment
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Carlos Tomás
+    description: |
+      Me dieron un servicio excelente, mucha calidad en los materiales, se nota que son 100% europeos, buena instalación, sin duda grandes profesionales, se los estoy recomendando a todo mi entorno.
+  - title: Angely Ogando
+    description: |
+      Excelentes en el servicio, la asistencia y responsabilidad en sus entrega me dejo satisfecha como cliente, también la calidad de sus productos son de primera. Brindan mucha confianza y siempre están dispuestos a colaborar en cualquier inquietud del cliente.
+  - title: Arisleidy Druyard
+    description: |
+      Encantada con los servicios y las atenciones de Eurolux.
+- type: columns
+  items:
+  - description: |
+      Más reseñas:
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CSUgV5RIKLWvEAg/review "noindex")

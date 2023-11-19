@@ -1,0 +1,19 @@
+anchor: Trabajos de Vidrios Control Solar
+color: light
+size: md
+more:
+  align: left
+rows:
+- type: gallery
+  design:
+    max: 999
+    alt: true
+    num: 4
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - vidrios-control-solar.jpg
+  - vidrios-control-solar-2.jpg
+  - vidrios-control-solar-3.jpg

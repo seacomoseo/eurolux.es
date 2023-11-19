@@ -1,0 +1,36 @@
+anchor: Trabajos de Toldos Parqueos
+color: light
+size: md
+description: |
+  Protege tus vehículos de las inclemencias del clima.
+
+  Variedad de diseños que se adapta a cada espacio, toldos personalizados.
+
+  Estructuras en materiales de hierro negro, galvanizado y anclajes de acero inoxidable, cada uno con su debido tratamiento anticorrosivo.
+
+  Forrados en membrana textil (vinil), lona o screen. Materiales de calidad 100% europea.
+more:
+  align: left
+rows:
+- type: gallery
+  design:
+    max: 999
+    alt: true
+    num: 4
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - toldos-parqueos.jpg
+  - toldos-parqueos-2.jpg
+  - toldos-parqueos-3.jpg
+  - toldos-parqueos-4.jpg
+  - toldos-parqueos-5.jpg
+  - toldos-parqueos-6.jpg
+  - toldos-parqueos-7.jpg
+  - toldos-parqueos-8.jpg
+  - toldos-parqueos-9.jpg
+  - toldos-parqueos-10.jpg
+  - toldos-parqueos-11.jpg
+  - toldos-parqueos-12.jpg

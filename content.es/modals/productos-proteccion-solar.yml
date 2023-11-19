@@ -1,0 +1,38 @@
+title: Protección Solar
+subtitle: Diseño, Fabricación e Instalación
+size: md
+icon: shutters
+more:
+  container: light
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    inset: true
+    ratio: 3x2
+  items:
+  - title: Palillería
+    link: /palilleria/
+    image: palilleria.jpg
+  - title: Shutters Anticiclónicos
+    link: /shutters-anticiclonicos/
+    image: shutters-anticiclonicos.jpg
+  - title: Cortinas Permas
+    link: /cortinas-permas/
+    image: cortinas-permas.jpg
+  - title: Toldos Fijos
+    link: /toldos-fijos/
+    image: toldos-fijos.jpg
+  - title: Toldos Retráctiles
+    link: /toldos-retractiles/
+    image: toldos-retractiles.jpg
+  - title: Toldos Velarías
+    link: /toldos-velarias/
+    image: toldos-velarias.jpg
+  - title: Paraguas Fijos
+    link: /paraguas-fijos/
+    image: paraguas-fijos.jpg
+  - title: Toldos Parqueos
+    link: /toldos-parqueos/
+    image: toldos-parqueos.jpg

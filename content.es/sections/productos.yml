@@ -1,0 +1,19 @@
+title: Productos
+subtitle: Diseño, Fabricación e Instalación
+color: light
+size: md
+icon: rectangle-vertical-history
+rows:
+- type: columns
+  design:
+    color: white
+  items:
+  - title: Envolvente
+    link: /#envolvente
+    icon: window-frame
+  - title: Protección Solar
+    link: /#proteccion-solar
+    icon: shutters
+  - title: Interiorismo
+    link: /#interiorismo
+    icon: house-heart

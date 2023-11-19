@@ -1,0 +1,17 @@
+anchor: Trabajos de Puertas de Garaje
+color: light
+size: md
+more:
+  align: left
+rows:
+- type: gallery
+  design:
+    max: 999
+    alt: true
+    num: 2
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - puertas-garaje.jpg

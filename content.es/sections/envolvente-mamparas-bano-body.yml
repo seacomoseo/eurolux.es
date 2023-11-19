@@ -1,0 +1,19 @@
+anchor: Trabajos de Mamparas de Baño
+color: light
+size: md
+more:
+  align: left
+rows:
+- type: gallery
+  design:
+    max: 999
+    alt: true
+    num: 4
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - mamparas-bano.jpg
+  - mamparas-bano-2.jpg
+  - mamparas-bano-3.jpg

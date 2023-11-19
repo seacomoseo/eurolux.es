@@ -1,0 +1,35 @@
+anchor: Trabajos de Paraguas Fijos
+color: light
+size: md
+description: |
+  Innovación en la arquitectura
+
+  Modelos y diseños adaptables a tus proyectos, no más sol y lluvia
+
+  Desde modelos en tipo de hojas hasta tipo círculos, estilos velarías y mucho más…
+
+  Utilizados en Parques, Hoteles, Terrazas, Proyectos Residenciales Comerciales…
+
+  Forrados en membrana textil (vinil), lona o screen
+more:
+  align: left
+rows:
+- type: gallery
+  design:
+    max: 999
+    alt: true
+    num: 3
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - paraguas-fijos.jpg
+  - paraguas-fijos-2.jpg
+  - paraguas-fijos-3.jpg
+  - paraguas-fijos-4.jpg
+  - paraguas-fijos-5.jpg
+  - paraguas-fijos-6.jpg
+  - paraguas-fijos-7.jpg
+  - paraguas-fijos-8.jpg
+  - paraguas-fijos-9.jpg

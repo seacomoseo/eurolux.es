@@ -1,0 +1,41 @@
+title: Envolvente
+subtitle: Diseño, Fabricación e Instalación
+size: md
+icon: window-frame
+more:
+  container: light
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    inset: true
+    ratio: 3x2
+  items:
+  - title: Vidrios Control Solar
+    link: /vidrios-control-solar/
+    image: vidrios-control-solar.jpg
+  - title: Ventanas y Puertas Correderas
+    link: /ventanas-puertas-correderas/
+    image: ventanas-puertas-correderas.jpg
+  - title: Puertas de Garaje
+    link: /puertas-garaje/
+    image: puertas-garaje.jpg
+  - title: Mamparas de Baño
+    link: /mamparas-bano/
+    image: mamparas-bano.jpg
+  - title: Louvers
+    link: /louvers/
+    image: louvers.jpg
+  - title: Techos de Vidrio
+    link: /techos-vidrio/
+    image: techos-vidrio.jpg
+  - title: Barandas
+    link: /barandas/
+    image: barandas.jpg
+  - title: Puertas y Ventanas Abatibles
+    link: /puertas-ventanas-abatibles/
+    image: puertas-ventanas-abatibles.jpg
+  - title: Ventanas Oscilo-Batientes
+    link: /ventanas-oscilo-batientes/
+    image: ventana-oscilo-batiente-apertura-batiente.jpg
