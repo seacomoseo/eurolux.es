@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/eurolux.srl/eurolux.es
   netlify_name: euroluxsrl
   netlify_id: 84dc6fe8-efba-4bde-adcb-c22575f45767
+  hook: NjM0N2UwNzliYmU1OTcwZWEwZTAzZGEz
   drive_link: https://drive.google.com/file/d/1CjLhC3_sgnNgCas6pYR_uRBbdGL-bCjl
   drive_mails: angela.caba26@gmail.com
 defaultContentLanguage: es
