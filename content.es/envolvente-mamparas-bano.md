@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: envolvente-mamparas-bano-header
-- file: envolvente-mamparas-bano-body
+- file: envolvente-mamparas-bano-informacion
+- file: envolvente-mamparas-bano-portfolio
 - file: productos
 ---

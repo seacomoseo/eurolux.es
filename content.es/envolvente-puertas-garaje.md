@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: envolvente-puertas-garaje-header
-- file: envolvente-puertas-garaje-body
+- file: envolvente-puertas-garaje-informacion
+- file: envolvente-puertas-garaje-portfolio
 - file: productos
 ---

@@ -1,6 +1,4 @@
-anchor: Trabajos de Palillería
-color: light
-size: md
+anchor: Información
 description: |
   ¿Problemas de sol y lluvia?
 
@@ -9,30 +7,6 @@ description: |
   Perfiles de aluminio lacado color blanco, lona totalmente impermeable, protege contra rayos UV, recubrimiento en PVC, resistente a la intemperie, al desgarro, antihongos.
 
   Medidas máximas 7.00 ancho x 7.00 largo, tipo de palilleria varían según medidas y espacios a cubrir.
+size: sm
 more:
   align: left
-rows:
-- type: gallery
-  design:
-    max: 999
-    alt: true
-    num: 4
-    wrap: true
-    gap: true
-    cover: true
-    grayscale: false
-  images:
-  - palilleria.jpg
-  - palilleria-2.jpg
-  - palilleria-3.jpg
-  - palilleria-4.jpg
-  - palilleria-5.jpg
-  - palilleria-6.jpg
-  - palilleria-7.jpg
-  - palilleria-8.jpg
-  - palilleria-9.jpg
-  - palilleria-10.jpg
-  - palilleria-11.jpg
-  - palilleria-12.jpg
-  - palilleria-13.jpg
-  - palilleria-14.jpg

@@ -17,6 +17,9 @@ langs_out: true
 callnow_active: true
 callnow_buttons: []
 normal:
+- link: /#
+  label: Inicio
+  icon: house
 - link: /#nosotros
   label: Nosotros
   icon: circle-info

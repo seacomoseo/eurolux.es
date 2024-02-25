@@ -1,30 +1,10 @@
-anchor: Trabajos de Shutters Anticiclónicos
-color: light
-size: md
+anchor: Información
 description: |
   Cuando se habla de seguridad (anti robo) y protección de fenómenos climáticos, el producto ideal los shutters.
 
   Fabricadas en aluminio extruido (lama GV 60) y cuentan con tapones de seguridad que evitan que el paño de lamas se salga de las guías en vientos extremos, con una resistencia a los vendavales de hasta 250 km/h.
 
   Además, de que están recomendadas para seguridad, por su alta resistencia y durabilidad Medidas máximas recomendadas 6.00 ancho x 3.00 alto.
+size: sm
 more:
   align: left
-rows:
-- type: gallery
-  design:
-    max: 999
-    alt: true
-    num: 3
-    wrap: true
-    gap: true
-    cover: true
-    grayscale: false
-  images:
-  - shutters-anticiclonicos.jpg
-  - shutters-anticiclonicos-2.jpg
-  - shutters-anticiclonicos-3.jpg
-  - shutters-anticiclonicos-4.jpg
-  - shutters-anticiclonicos-5.jpg
-  - shutters-anticiclonicos-6.jpg
-  - shutters-anticiclonicos-7.jpg
-  - shutters-anticiclonicos-8.jpg

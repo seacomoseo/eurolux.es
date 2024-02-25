@@ -3,10 +3,7 @@ title: Puertas de Garaje
 subtitle: Diseño, Fabricación e Instalación
 color: light
 image: logo-alt.svg
-bg: puertas-garaje.jpg
+bg: envolvente/puertas-garaje/1.jpg
 icon: window-frame
 description: |
   [btn icon-plus Más](#principal)
-more:
-  image_max: 18
-  opacity: 40

@@ -1,0 +1,20 @@
+anchor: Portfolio
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    alt: true
+    num: 2
+    wrap: true
+    gap: true
+    cover: true
+    button: hide
+  images:
+  - proteccion-solar/toldos-fijos/1.jpg
+  - proteccion-solar/toldos-fijos/2.jpg
+  - proteccion-solar/toldos-fijos/3.jpg
+  - proteccion-solar/toldos-fijos/4.jpg
+  - proteccion-solar/toldos-fijos/5.jpg
+  - proteccion-solar/toldos-fijos/6.jpg
+  - proteccion-solar/toldos-fijos/7.jpg

@@ -1,0 +1,16 @@
+anchor: Portfolio
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    alt: true
+    num: 3
+    wrap: true
+    gap: true
+    cover: true
+    button: hide
+  images:
+  - envolvente/ventana-oscilo-batiente/apertura-batiente.jpg
+  - envolvente/ventana-oscilo-batiente/apertura-oscilo.jpg
+  - envolvente/ventana-oscilo-batiente/cerrada.jpg

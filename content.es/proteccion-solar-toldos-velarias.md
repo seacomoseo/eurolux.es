@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: proteccion-solar-toldos-velarias-header
-- file: proteccion-solar-toldos-velarias-body
+- file: proteccion-solar-toldos-velarias-informacion
+- file: proteccion-solar-toldos-velarias-portfolio
 - file: productos
 ---

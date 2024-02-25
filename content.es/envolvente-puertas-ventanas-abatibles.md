@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: envolvente-puertas-ventanas-abatibles-header
-- file: envolvente-puertas-ventanas-abatibles-body
+- file: envolvente-puertas-ventanas-abatibles-informacion
+- file: envolvente-puertas-ventanas-abatibles-portfolio
 - file: productos
 ---

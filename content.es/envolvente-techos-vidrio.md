@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: envolvente-techos-vidrio-header
-- file: envolvente-techos-vidrio-body
+- file: envolvente-techos-vidrio-informacion
+- file: envolvente-techos-vidrio-portfolio
 - file: productos
 ---

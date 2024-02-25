@@ -1,0 +1,22 @@
+anchor: Portfolio
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    alt: true
+    num: 2
+    wrap: true
+    gap: true
+    cover: true
+    button: hide
+  images:
+  - proteccion-solar/paraguas-fijos/1.jpg
+  - proteccion-solar/paraguas-fijos/2.jpg
+  - proteccion-solar/paraguas-fijos/3.jpg
+  - proteccion-solar/paraguas-fijos/5.jpg
+  - proteccion-solar/paraguas-fijos/6.jpg
+  - proteccion-solar/paraguas-fijos/7.jpg
+  - proteccion-solar/paraguas-fijos/8.jpg
+  - proteccion-solar/paraguas-fijos/9.jpg
+  - proteccion-solar/paraguas-fijos/4.jpg

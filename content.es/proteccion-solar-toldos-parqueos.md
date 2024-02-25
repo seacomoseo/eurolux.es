@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: proteccion-solar-toldos-parqueos-header
-- file: proteccion-solar-toldos-parqueos-body
+- file: proteccion-solar-toldos-parqueos-informacion
+- file: proteccion-solar-toldos-parqueos-portfolio
 - file: productos
 ---

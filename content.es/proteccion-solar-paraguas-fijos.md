@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: proteccion-solar-paraguas-fijos-header
-- file: proteccion-solar-paraguas-fijos-body
+- file: proteccion-solar-paraguas-fijos-informacion
+- file: proteccion-solar-paraguas-fijos-portfolio
 - file: productos
 ---

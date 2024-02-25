@@ -1,8 +1,6 @@
 button,
 a.button {
-  font-family: $font-family-base;
-  font-style: $font-style-base;
-  font-weight: $font-weight-base;
+  text-transform: uppercase;
 }
 
 
@@ -12,24 +10,10 @@ a.button {
   @mixin show-from($delay) {
     animation: show-from .5s (.5 + .25s * $delay) both;
   }
-  .image {
-    // * {
-    //   fill: var(--text);
-    // }
-    .image__inner {
-      border-radius: 0;
-    }
-            @include show-from(1);
-  }
-  .description {
-    p {     @include show-from(2); }
-    .buttons { @include show-from(3); }
-  }
-  h1 + .description {
-    margin-top: 3em;
-  }
-  .column--item-2 {
-            @include show-from(4);
+  .image {                @include show-from(1); }
+  .description p {        @include show-from(2); }
+  .description .buttons { @include show-from(3); }
+  .column--item-2 {       @include show-from(4);
     @media (min-width: 928px) {
       width: calc(var(--column-width) * .75);
     }
@@ -40,29 +24,6 @@ a.button {
 // Sections
 
 #nos-caracteriza {
-  .column__header {
-    .h3:after,
-    h3:after {
-      content: "";
-      display: block;
-      width: 2em;
-      height: $menu-bar;
-      background-color: $main;
-      border-radius: .0625em;
-      margin: .125em auto .25em 0;
-    }
-  }
-  @media (min-width: $screen-xl) {
-    .column.align--xl-right {
-      .column__header {
-        .h3:after,
-        h3:after {
-          margin-left: auto;
-          margin-right: 0;
-        }
-      }
-    }
-  }
   @media (max-width: $screen-xl - 1) {
     .align-self-center {
       padding-top: 2em;

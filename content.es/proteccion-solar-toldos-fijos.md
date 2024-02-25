@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: proteccion-solar-toldos-fijos-header
-- file: proteccion-solar-toldos-fijos-body
+# - file: proteccion-solar-toldos-fijos-informacion
+- file: proteccion-solar-toldos-fijos-portfolio
 - file: productos
 ---

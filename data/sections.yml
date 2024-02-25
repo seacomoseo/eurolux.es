@@ -9,7 +9,7 @@ general:
   border: ''
   inset: false
   image_min: null
-  image_max: null
+  image_max: 18
   image_align: ''
   uppercase: true
   underline: false
@@ -22,7 +22,7 @@ general:
   gradient: ''
   gradient_type: ''
   bg: ''
-  opacity: null
+  opacity: 10
   parallax: true
   pill: false
   size: ''

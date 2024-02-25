@@ -1,0 +1,21 @@
+anchor: Portfolio
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    alt: true
+    num: 3
+    wrap: true
+    gap: true
+    cover: true
+    button: hide
+  images:
+  - proteccion-solar/toldos-retractiles/1.jpg
+  - proteccion-solar/toldos-retractiles/2.jpg
+  - proteccion-solar/toldos-retractiles/3.jpg
+  - proteccion-solar/toldos-retractiles/4.jpg
+  - proteccion-solar/toldos-retractiles/5.jpg
+  - proteccion-solar/toldos-retractiles/6.jpg
+  - proteccion-solar/toldos-retractiles/7.jpg
+  - proteccion-solar/toldos-retractiles/8.jpg

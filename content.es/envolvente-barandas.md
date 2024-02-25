@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: envolvente-barandas-header
-- file: envolvente-barandas-body
+- file: envolvente-barandas-informacion
+- file: envolvente-barandas-portfolio
 - file: productos
 ---

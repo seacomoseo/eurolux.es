@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: envolvente-louvers-header
-- file: envolvente-louvers-body
+- file: envolvente-louvers-informacion
+- file: envolvente-louvers-portfolio
 - file: productos
 ---

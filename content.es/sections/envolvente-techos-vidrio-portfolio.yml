@@ -1,0 +1,16 @@
+anchor: Portfolio
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    alt: true
+    num: 4
+    wrap: true
+    gap: true
+    cover: true
+    button: hide
+  images:
+  - envolvente/techos-vidrio/1.jpg
+  - envolvente/techos-vidrio/2.jpg
+  - envolvente/techos-vidrio/3.jpg

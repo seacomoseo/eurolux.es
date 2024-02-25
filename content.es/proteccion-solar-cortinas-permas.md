@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: proteccion-solar-cortinas-permas-header
-- file: proteccion-solar-cortinas-permas-body
+- file: proteccion-solar-cortinas-permas-informacion
+- file: proteccion-solar-cortinas-permas-portfolio
 - file: productos
 ---

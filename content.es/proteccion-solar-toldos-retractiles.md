@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: proteccion-solar-toldos-retractiles-header
-- file: proteccion-solar-toldos-retractiles-body
+- file: proteccion-solar-toldos-retractiles-informacion
+- file: proteccion-solar-toldos-retractiles-portfolio
 - file: productos
 ---

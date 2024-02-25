@@ -35,6 +35,7 @@ sections:
   # - proteccion-solar-toldos-parqueos
   - productos-interiorismo
 - file: inicio-nos-caracteriza
+- file: inicio-taller
 - file: inicio-marcas
 # - file: inicio-aliados
 - file: inicio-resenas

@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: envolvente-ventanas-puertas-correderas-header
-- file: envolvente-ventanas-puertas-correderas-body
+- file: envolvente-ventanas-puertas-correderas-informacion
+- file: envolvente-ventanas-puertas-correderas-portfolio
 - file: productos
 ---

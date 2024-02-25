@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: proteccion-solar-shutters-anticiclonicos-header
-- file: proteccion-solar-shutters-anticiclonicos-body
+- file: proteccion-solar-shutters-anticiclonicos-informacion
+- file: proteccion-solar-shutters-anticiclonicos-portfolio
 - file: productos
 ---

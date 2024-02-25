@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: envolvente-vidrios-control-solar-header
-- file: envolvente-vidrios-control-solar-body
+- file: envolvente-vidrios-control-solar-informacion
+- file: envolvente-vidrios-control-solar-portfolio
 - file: productos
 ---

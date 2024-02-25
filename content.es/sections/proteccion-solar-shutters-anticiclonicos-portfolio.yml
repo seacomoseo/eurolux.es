@@ -1,0 +1,21 @@
+anchor: Portfolio
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    alt: true
+    num: 2
+    wrap: true
+    gap: true
+    cover: true
+    button: hide
+  images:
+  - proteccion-solar/shutters-anticiclonicos/1.jpg
+  - proteccion-solar/shutters-anticiclonicos/3.jpg
+  - proteccion-solar/shutters-anticiclonicos/4.jpg
+  - proteccion-solar/shutters-anticiclonicos/5.jpg
+  - proteccion-solar/shutters-anticiclonicos/6.jpg
+  - proteccion-solar/shutters-anticiclonicos/7.jpg
+  - proteccion-solar/shutters-anticiclonicos/8.jpg
+  - proteccion-solar/shutters-anticiclonicos/2.jpg

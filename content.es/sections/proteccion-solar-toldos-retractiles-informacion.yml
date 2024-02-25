@@ -1,6 +1,4 @@
-anchor: Trabajos de Toldos Retráctiles
-color: light
-size: md
+anchor: Información
 description: |
   Uno de los productos más prácticos, de fácil accionamiento, sin obstáculos en medio.
 
@@ -9,24 +7,6 @@ description: |
   Fabricado con los mejores materiales del mercado, marcas de calidad europea.
 
   Medidas máximas 7.00 ancho x 3.50 salida, tipo de palilleria varían según medidas y espacios a cubrir.
+size: sm
 more:
   align: left
-rows:
-- type: gallery
-  design:
-    max: 999
-    alt: true
-    num: 4
-    wrap: true
-    gap: true
-    cover: true
-    grayscale: false
-  images:
-  - toldos-retractiles.jpg
-  - toldos-retractiles-2.jpg
-  - toldos-retractiles-3.jpg
-  - toldos-retractiles-4.jpg
-  - toldos-retractiles-5.jpg
-  - toldos-retractiles-6.jpg
-  - toldos-retractiles-7.jpg
-  - toldos-retractiles-8.jpg

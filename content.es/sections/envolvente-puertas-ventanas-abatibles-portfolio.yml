@@ -1,0 +1,18 @@
+anchor: Portfolio
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    alt: true
+    num: 2
+    wrap: true
+    gap: true
+    cover: true
+    button: hide
+  images:
+  - envolvente/puertas-ventanas-abatibles/1.jpg
+  - envolvente/puertas-ventanas-abatibles/2.jpg
+  - envolvente/puertas-ventanas-abatibles/3.jpg
+  - envolvente/puertas-ventanas-abatibles/4.jpg
+  - envolvente/puertas-ventanas-abatibles/5.jpg

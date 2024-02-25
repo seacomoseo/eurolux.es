@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: envolvente-ventanas-oscilo-batientes-header
-- file: envolvente-ventanas-oscilo-batientes-body
+- file: envolvente-ventanas-oscilo-batientes-informacion
+- file: envolvente-ventanas-oscilo-batientes-portfolio
 - file: productos
 ---

@@ -3,10 +3,7 @@ title: Mamparas de Baño
 subtitle: Diseño, Fabricación e Instalación
 color: light
 image: logo-alt.svg
-bg: mamparas-bano.jpg
+bg: envolvente/mamparas-bano/1.jpg
 icon: window-frame
 description: |
   [btn icon-plus Más](#principal)
-more:
-  image_max: 18
-  opacity: 40

@@ -3,10 +3,7 @@ title: Ventanas Oscilo-Batientes
 subtitle: Diseño, Fabricación e Instalación
 color: light
 image: logo-alt.svg
-bg: ventana-oscilo-batiente-apertura-batiente.jpg
+bg: envolvente/ventana-oscilo-batiente/apertura-batiente.jpg
 icon: window-frame
 description: |
   [btn icon-plus Más](#principal)
-more:
-  image_max: 18
-  opacity: 40

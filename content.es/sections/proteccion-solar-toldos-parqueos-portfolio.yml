@@ -1,0 +1,25 @@
+anchor: Portfolio
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    alt: true
+    num: 2
+    wrap: true
+    gap: true
+    cover: true
+    button: hide
+  images:
+  - proteccion-solar/toldos-parqueos/1.jpg
+  - proteccion-solar/toldos-parqueos/2.jpg
+  - proteccion-solar/toldos-parqueos/3.jpg
+  - proteccion-solar/toldos-parqueos/4.jpg
+  - proteccion-solar/toldos-parqueos/6.jpg
+  - proteccion-solar/toldos-parqueos/7.jpg
+  - proteccion-solar/toldos-parqueos/8.jpg
+  - proteccion-solar/toldos-parqueos/9.jpg
+  - proteccion-solar/toldos-parqueos/10.jpg
+  - proteccion-solar/toldos-parqueos/11.jpg
+  - proteccion-solar/toldos-parqueos/5.jpg
+  - proteccion-solar/toldos-parqueos/12.jpg

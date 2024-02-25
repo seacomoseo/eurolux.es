@@ -11,6 +11,7 @@ menu:
   hide_anchors: true
 sections:
 - file: proteccion-solar-palilleria-header
-- file: proteccion-solar-palilleria-body
+- file: proteccion-solar-palilleria-informacion
+- file: proteccion-solar-palilleria-portfolio
 - file: productos
 ---

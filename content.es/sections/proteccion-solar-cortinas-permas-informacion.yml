@@ -1,6 +1,4 @@
-anchor: Trabajos de Cortinas Permas
-color: light
-size: md
+anchor: Información
 description: |
   Privacidad por dentro, visibilidad hacia afuera, la combinación perfecta.
 
@@ -11,25 +9,6 @@ description: |
   Usamos únicamente tejidos Vertilux®, que son antibacterianos; están libres de plomo y sustancias nocivas ; y son retardantes del fuego.
 
   Medidas máximas recomendadas 6.00 ancho x 3.00 alto.
+size: sm
 more:
   align: left
-rows:
-- type: gallery
-  design:
-    max: 999
-    alt: true
-    num: 3
-    wrap: true
-    gap: true
-    cover: true
-    grayscale: false
-  images:
-  - cortinas-permas.jpg
-  - cortinas-permas-2.jpg
-  - cortinas-permas-9.jpg
-  - cortinas-permas-10.jpg
-  - cortinas-permas-11.jpg
-  - cortinas-permas-12.jpg
-  - cortinas-permas-28.jpg
-  - cortinas-permas-29.jpg
-  - cortinas-permas-30.jpg
