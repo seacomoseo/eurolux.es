@@ -3,6 +3,10 @@ subtitle: Diseño, Fabricación e Instalación
 color: light
 size: md
 icon: rectangle-vertical-history
+bg: eurolux.mp4
+more:
+  opacity: 30
+  parallax: true
 rows:
 - type: columns
   design:

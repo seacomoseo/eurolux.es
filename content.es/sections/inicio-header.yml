@@ -1,14 +1,16 @@
 anchor: Fachadas y Envolventes en República Dominicana
 color: light
+# size: md
+# full_screen: true
 bg: envolvente/vidrios-control-solar/1.jpg
-size: md
 more:
-  opacity: 40
+  opacity: 30
   parallax: true
 rows:
 - type: columns
   design:
-    num: 2
+    num: 3
+    gap: 3
     align_y: center
   items:
   - image: logo-alt.svg
@@ -16,6 +18,7 @@ rows:
       Tus proyectos, nuestra pasion
 
       [btn icon-plus Más](#principal)
-  - image: eurolux.mp4#mute
+  - image: https://youtu.be/W5iI6GACnrs#mute
     more:
-      ratio: 3x4
+      ratio: 16x9
+    span: 2
