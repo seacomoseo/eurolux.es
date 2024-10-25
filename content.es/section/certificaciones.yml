@@ -1,0 +1,25 @@
+name: Certificaciones
+title: Certificaciones
+subtitle: De nuestros proveedores
+color: light
+icon: badge-check
+box:
+  columns: 6
+  columns_min: 2
+  gap: 2
+  grayscale: true
+  ratio: 3x2
+  button: hide
+boxes:
+- image: certificados/iso-9001-2015.svg
+  link: https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es
+- image: certificados/qualanod.svg
+  link: https://www.qualanod.net/
+- image: certificados/qualicoat.svg
+  link: https://www.qualicoat.net/
+- image: certificados/applus.svg
+  link: https://www.appluscertification.com/
+- image: certificados/reach.svg
+  link: https://europa.eu/youreurope/business/product-requirements/chemicals/registering-chemicals-reach/index_es.htm
+- image: certificados/ce.svg
+  link: https://europa.eu/youreurope/business/product-requirements/labels-markings/ce-marking/index_es.htm

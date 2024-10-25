@@ -1,0 +1,21 @@
+/caf/ /
+/parking.php /
+
+# 2024-10-25
+/barandas/ /productos/envolvente/barandas/
+/louvers/ /productos/envolvente/louvers/
+/mamparas-bano/ /productos/envolvente/mamparas-bano/
+/puertas-garaje/ /productos/envolvente/puertas-garaje/
+/puertas-ventanas-abatibles/ /productos/envolvente/puertas-ventanas-abatibles/
+/techos-vidrio/ /productos/envolvente/techos-vidrio/
+/ventanas-oscilo-batientes/ /productos/envolvente/ventanas-oscilo-batientes/
+/ventanas-puertas-correderas/ /productos/envolvente/ventanas-puertas-correderas/
+/vidrios-control-solar/ /productos/envolvente/vidrios-control-solar/
+/solar-cortinas-permas/ /productos/proteccion-solar/cortinas-permas/
+/solar-palilleria/ /productos/proteccion-solar/palilleria/
+/solar-paraguas-fijos/ /productos/proteccion-solar/paraguas-fijos/
+/solar-shutters-anticiclonicos/ /productos/proteccion-solar/shutters-anticiclonicos/
+/solar-toldos-fijos/ /productos/proteccion-solar/toldos-fijos/
+/solar-toldos-parqueos/ /productos/proteccion-solar/toldos-parqueos/
+/solar-toldos-retractiles/ /productos/proteccion-solar/toldos-retractiles/
+/solar-toldos-velarias/ /productos/proteccion-solar/toldos-velarias/

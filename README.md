@@ -12,4 +12,3 @@
   - FAVICON
     - `favicon.ico` ⏩ [Favicon converter tool](https://favicon.io/favicon-converter/)
   - Try in Safari and Firefox
-  - If Multilanguaje and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`

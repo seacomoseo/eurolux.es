@@ -1,0 +1,13 @@
+name: Productos Interiorismo
+id: interiorismo
+title: Interiorismo y Decoración
+subtitle: Diseño, Fabricación e Instalación
+size: md
+icon: house-heart
+box_color: light
+box:
+  color: main-light
+  columns: 3
+boxes:
+- title: En Construcción
+  icon: triangle-person-digging

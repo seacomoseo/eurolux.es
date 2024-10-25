@@ -1,0 +1,47 @@
+name: Informacion Velarias
+if: velarias
+hanchor: Más Información
+color: white
+pt: 0
+size: md
+align: center
+box:
+  gap_ny: 3
+boxes:
+- box:
+    columns: 5
+    columns_min: 2
+    hs: 6
+  boxes:
+  - icon: cloud-sun-rain
+    title: Resistencia a la intemperie
+  - icon: fire-flame-simple
+    title: Resistencia al fuego
+  - icon: screwdriver-wrench
+    title: Fácil mantenimiento
+  - icon: hourglass
+    title: Durabilidad
+  - icon: feather-pointed
+    title: Ligeras y Elegantes
+- boxes:
+  - subtitle: Utilizadas en...
+- box:
+    columns: 5
+    columns_min: 2
+    hs: 6
+  boxes:
+  - icon: hotel
+    title: Hoteles
+  - icon: plane-up
+    title: Aeropuertos
+  - icon: tree-city
+    title: Proyectos comerciales
+  - icon: house-tree
+    title: Proyectos residenciales
+  - icon: landmark
+    title: Espacios públicos
+- boxes:
+  - content: |
+      Entre otros...
+
+      Pueden ser fabricadas en membrana textil Vertilux®, con 5 años de garantía.

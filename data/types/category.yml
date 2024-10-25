@@ -1,0 +1,24 @@
+title: Categorías
+base: page
+taxonomy_of:
+- name: product
+  breadcrumbs: true
+params:
+- name: ~BOX_ICON_ID
+- name: weight
+  label: Orden
+  hint: Orden en el que aparecen las páginas
+  type: int
+template:
+  menu:
+    logo: false
+  list:
+    color: white
+    card: false
+    image: hide
+    icon: bookmark
+    hs: 3
+    licon: plus
+    button: link
+es:
+  permalinks: productos

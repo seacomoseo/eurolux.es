@@ -1,0 +1,16 @@
+name: Aliados
+title: Aliados
+subtitle: Con los que trabajamos mano a mano
+color: white
+icon: handshake-simple
+align: center
+gallery:
+  grayscale: true
+  columns: 3
+limages:
+- image: base/logo-grupo-inalsa.svg
+  link: https://www.grupoinalsa.com/
+- image: base/logo-proma.svg
+  link: https://pproma.es/
+- image: base/logo-dbgroup.svg
+  link: https://dbgroupherrajes.com/

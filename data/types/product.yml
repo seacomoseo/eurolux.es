@@ -1,0 +1,27 @@
+title: Productos
+base: service
+icon: rectangle-vertical-history
+emoji: 📚
+params:
+- name: ~BOX_ICON_ID
+- name: ~BOX_GALLERY
+- name: ~BOX_GALLERY_IMAGES
+- name: velarias
+  label: Velarias
+  hint: Activa la información con iconos por columnas de las velarias
+  type: boolean
+template:
+  menu:
+    logo: false
+  sections:
+  - file: productos/_header
+  - file: productos/informacion
+  - file: productos/informacion-velarias
+  - file: productos/portfolio
+  - file: productos
+  - file: proyectos/destacados
+es:
+  permalinks: productos
+  slug: productos
+  singular: Producto
+  title: Productos

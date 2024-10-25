@@ -1,0 +1,24 @@
+name: Cabecera
+node: header
+align: left
+boxes:
+- if: breadcrumbs
+  node: nav
+  content: |
+    {{< breadcrumbs >}}
+- title: '{{% param title %}}'
+  icon: '{{ param icon }}'
+  icon_type: side
+# - tags:
+#   - type: type
+#   - type: date
+#   - type: address
+#   - type: taxonomy
+#     taxonomy: all
+#   - type: param
+#     param: place
+#     icon: location-dot
+# - if: image
+#   params:
+#   - page: image
+#     box: image

@@ -1,0 +1,18 @@
+name: Header
+color: light
+bg: envolvente/vidrios-control-solar/1.jpg
+parallax: fix
+hanchor: Fachadas y Envolventes en República Dominicana
+alpha: 0.7
+box:
+  gap: 3
+  align_y: center
+  columns: 2
+boxes:
+- image: base/logo-alt.svg
+  content: |
+    Tus proyectos, nuestra pasion
+
+    [btn icon:plus Más](#principal)
+- image: https://youtu.be/W5iI6GACnrs#mute
+  ratio: 16x9

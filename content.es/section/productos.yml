@@ -1,0 +1,11 @@
+name: Productos
+title: Productos
+subtitle: Diseño, Fabricación e Instalación
+color: light
+size: md
+icon: rectangle-vertical-history
+# bg: eurolux.mp4
+# parallax: fix
+# alpha: 0.7
+list:
+  type: category

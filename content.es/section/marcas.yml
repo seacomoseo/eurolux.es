@@ -1,0 +1,38 @@
+name: Marcas
+title: Marcas
+subtitle: En las que confiamos
+color: white
+icon: certificate
+content: |
+  Solo trabajamos e importamos las más prestigiosas marcas europeas para que la calidad y durabilidad en nuestros trabajos hablen por nosotros
+align: center
+box:
+  columns: 5
+  columns_min: 2
+  gap: 2
+  gap_min: 1.5
+  gap_ny: 1
+  grayscale: true
+  ratio: 18x6
+  button: hide
+boxes:
+- image: marcas/saheco.svg
+  link: https://www.saheco.com/
+- image: marcas/satto.svg
+  link: https://satto.co/
+- image: marcas/recasens.svg
+  link: https://recasens.com/
+- image: marcas/vertilux.svg
+  link: https://es.vertilux.com/
+- image: marcas/cortizo.svg
+  link: https://www.cortizo.com/
+- image: marcas/mediterraneo-aluminio.svg
+  link: https://mediterraneoaluminio.com/
+- image: marcas/llaza.svg
+  link: https://www.llaza.com/
+- image: marcas/alugom.svg
+  link: https://alugom.es/
+- image: marcas/gaviota.svg
+  link: https://www.gaviotagroup.com/
+- image: marcas/strugal.svg
+  link: https://www.strugal.com/

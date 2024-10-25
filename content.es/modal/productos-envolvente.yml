@@ -1,0 +1,37 @@
+name: Productos Envolvente
+title: Envolvente
+subtitle: Diseño, Fabricación e Instalación
+size: md
+icon: window-frame
+box_color: light
+box:
+  card: true
+  columns: 3
+boxes:
+- title: Vidrios Control Solar
+  link: /vidrios-control-solar/
+  image: envolvente/vidrios-control-solar/1.jpg
+- title: Ventanas y Puertas Correderas
+  link: /ventanas-puertas-correderas/
+  image: envolvente/ventanas-puertas-correderas/1.jpg
+- title: Puertas de Garaje
+  link: /puertas-garaje/
+  image: envolvente/puertas-garaje/1.jpg
+- title: Mamparas de Baño
+  link: /mamparas-bano/
+  image: envolvente/mamparas-bano/1.jpg
+- title: Louvers
+  link: /louvers/
+  image: envolvente/louvers/1.jpg
+- title: Techos de Vidrio
+  link: /techos-vidrio/
+  image: envolvente/techos-vidrio/1.jpg
+- title: Barandas
+  link: /barandas/
+  image: envolvente/barandas/1.jpg
+- title: Puertas y Ventanas Abatibles
+  link: /puertas-ventanas-abatibles/
+  image: envolvente/puertas-ventanas-abatibles/1.jpg
+- title: Ventanas Oscilo-Batientes
+  link: /ventanas-oscilo-batientes/
+  image: envolvente/ventana-oscilo-batiente/apertura-batiente.jpg

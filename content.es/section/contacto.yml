@@ -1,0 +1,50 @@
+name: Contacto
+title: Contacto
+subtitle: Resuelve tus dudas sin compromiso
+color: white
+size: sm
+icon: paper-plane
+menu_button: link
+contact:
+- type: schedule
+  days: Lunes a Viernes
+  hours: 8:00 - 19:00
+- type: br
+- type: phone
+  label: +1 829 515 2662
+  font_alt: true
+- type: whatsapp
+  label: +1 829 515 2662
+  font_alt: true
+  button: link
+- type: address
+  button: light
+  label: Calle Marcio Maggiolo, Los Corales, 23000 Bavaro, Punta Cana
+  anchor: Eurolux SRL, Calle Marcio Maggiolo, Los Corales, 23000 Bavaro, Punta Cana
+- type: custom
+  link: https://instagram.com/eurolux_srl
+  label: '@eurolux_srl'
+  icon: instagram
+  font_alt: true
+  button: dark
+- type: mail
+  label: info@eurolux.es
+  full: false
+  button: dark
+inputs:
+- type: text
+  name: Nombre
+  required: true
+- type: tel
+  name: Teléfono
+  required: true
+- type: email
+  name: Email
+  required: true
+- type: text
+  name: Producto
+  required: false
+- type: textarea
+  name: Mensaje
+  placeholder: Preguntas o comentarios
+  required: true

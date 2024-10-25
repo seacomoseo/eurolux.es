@@ -1,42 +1,11 @@
-button,
-a.button {
-  text-transform: uppercase;
-}
-
-
 // Header
 
-#body-inicio #header {
+#body-home #header {
   @mixin show-from($delay) {
     animation: show-from .5s (.5 + .25s * $delay) both;
   }
-  .image {                @include show-from(1); }
-  .description p {        @include show-from(2); }
-  .description .buttons { @include show-from(3); }
-  .column--item-2 {       @include show-from(4);
-    @media (min-width: 928px) {
-      width: calc(var(--column-width) * .75);
-    }
-  }
-}
-
-
-// Sections
-
-#nos-caracteriza {
-  @media (max-width: $screen-xl - 1) {
-    .align-self-center {
-      padding-top: 2em;
-      padding-bottom: 4em;
-    }
-  }
-}
-
-// Products Descriptions
-
-.description ul {
-  margin-left: 0;
-}
-.description + .rows {
-  margin-top: 3em;
+  .image {            @include show-from(1); }
+  .content p {        @include show-from(2); }
+  .content .buttons { @include show-from(3); }
+  .box--2 {           @include show-from(4); }
 }

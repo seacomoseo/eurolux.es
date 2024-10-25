@@ -1,0 +1,15 @@
+title: Únicas
+order: 0
+base: single
+template:
+  menu:
+    logo: false
+    sticky: auto
+  callnow:
+    show: auto
+  section:
+  - uppercase: true
+    parallax: fix
+    alpha: 0.9
+  modal:
+    uppercase: true

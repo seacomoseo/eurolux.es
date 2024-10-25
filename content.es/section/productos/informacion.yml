@@ -1,0 +1,8 @@
+name: Informacion
+if: content
+color: white
+content: |
+  {{% content %}}
+size: sm
+align: left
+hanchor: Información

@@ -1,0 +1,13 @@
+name: Portfolio
+if: images
+hanchor: Portfolio
+ph: true
+size: fluid
+params:
+- box: gallery
+- box: images
+gallery:
+  type: rows
+  columns: 2
+  color: white
+  button: hide

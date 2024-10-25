@@ -1,0 +1,20 @@
+title: Proyectos Destacados
+base: page # [ article, event, product, brand, author, organization, service, page ]
+icon: crown
+emoji: 👑
+params:
+- name: ~BOX_GALLERY
+- name: ~BOX_GALLERY_IMAGES
+template:
+  menu:
+    logo: false
+  sections:
+  - file: proyectos/_header
+  - file: proyectos/portfolio
+  - file: proyectos/destacados
+  - file: productos
+es:
+  permalinks: proyecto
+  slug: proyectos
+  singular: Proyecto Destacado
+  title: Proyectos Destacados

@@ -1,0 +1,91 @@
+title: Todas
+template:
+  toc: false
+  background:
+    color: light
+  menu:
+    logo: true
+    logo_align: center
+    transparent: true
+    size: xl
+    sticky: auto
+    color: white
+    es:
+      image: base/logo-alt.svg
+      items:
+      - link: /#
+        label: Inicio
+        icon: house
+      - link: /#nosotros
+        label: Nosotros
+        icon: circle-info
+      # - link: /#equipo
+      #   label: Equipo
+      #   icon: people-group
+      - link: /#proyectos-destacados
+        label: Destacados
+        icon: crown
+      - link: /#productos
+        label: Productos
+        icon: rectangle-vertical-history
+        items:
+        - link: /productos/envolvente/
+          label: Envolvente
+          icon: window-frame
+        - link: /productos/proteccion-solar/
+          label: Protección Solar
+          icon: shutters
+        - link: /productos/interiorismo/
+          label: Interiorismo y Decoración
+          icon: house-heart
+      - link: /#nos-caracteriza
+        label: Nos Caracteriza
+        icon: star
+      # - link: /#taller
+      #   label: Taller
+      #   icon: screwdriver-wrench
+      - link: /#marcas
+        label: Marcas
+        icon: certificate
+      # - link: /#certificaciones
+      #   label: Certificaciones
+      #   icon: badge-check
+      # - link: /#aliados
+      #   label: Aliados
+      #   icon: handshake-simple
+      - link: /#resenas
+        label: Reseñas
+        icon: comment
+      - link: /#contacto
+        label: Contacto
+        icon: paper-plane
+        button: link
+  callnow:
+    show: auto
+    es: []
+  section:
+  - size: sm
+    uppercase: true
+    parallax: fix
+  modal: {}
+  sections:
+  - file: base/_header
+  - file: base/toc
+  - file: base/content
+  - file: base/place
+  - file: base/author
+  - file: base/social
+  - file: base/comments
+  - file: base/children
+  - file: base/share
+  - file: base/related
+  list:
+    columns: 3
+    card: true
+    icon: hide
+    hs: 3
+    content: hide
+    licon: plus
+    button: link
+  related:
+    slider: true

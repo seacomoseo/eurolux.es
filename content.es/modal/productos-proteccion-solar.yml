@@ -1,0 +1,34 @@
+name: Productos Proteccion Solar
+title: Protección Solar
+subtitle: Diseño, Fabricación e Instalación
+size: md
+icon: shutters
+box_color: light
+box:
+  card: true
+  columns: 3
+boxes:
+- title: Palillería
+  link: /palilleria/
+  image: proteccion-solar/palilleria/1.jpg
+- title: Shutters Anticiclónicos
+  link: /shutters-anticiclonicos/
+  image: proteccion-solar/shutters-anticiclonicos/1.jpg
+- title: Cortinas Permas
+  link: /cortinas-permas/
+  image: proteccion-solar/cortinas-permas/1.jpg
+- title: Toldos Fijos
+  link: /toldos-fijos/
+  image: proteccion-solar/toldos-fijos/1.jpg
+- title: Toldos Retráctiles
+  link: /toldos-retractiles/
+  image: proteccion-solar/toldos-retractiles/1.jpg
+- title: Toldos Velarías
+  link: /toldos-velarias/
+  image: proteccion-solar/toldos-velarias/1.jpg
+- title: Paraguas Fijos
+  link: /paraguas-fijos/
+  image: proteccion-solar/paraguas-fijos/1.jpg
+- title: Toldos Parqueos
+  link: /toldos-parqueos/
+  image: proteccion-solar/toldos-parqueos/1.jpg

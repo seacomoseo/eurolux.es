@@ -1,0 +1,20 @@
+name: Header
+hanchor: 'Proyecto Destacado: {{ param title }}'
+color: light
+bg: '{{ param image }}'
+alpha: 0.9
+box:
+  gap_ny: 2
+boxes:
+- image: base/logo-alt.svg
+  span: .25
+  span_min: .5
+- title: '{{ param title }}'
+  subtitle: Proyecto Destacado
+  icon_type: bottom
+  content: |
+    {{% content %}}
+
+    [btn icon:plus Más](#more)
+  params:
+  - box: icon
