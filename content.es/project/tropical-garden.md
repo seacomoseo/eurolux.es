@@ -6,7 +6,7 @@ draft: false
 noindex: false
 translationKey: tropical-garden
 seo: 'Proyecto Destacado: Tropical Garden - Eurolux SRL'
-description: llll➤ Diseño, fabricación e instalación de Barandas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
+description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Tropical Garden.
 gallery:
   columns: 3
 images:

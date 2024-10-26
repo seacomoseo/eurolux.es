@@ -6,7 +6,7 @@ draft: false
 noindex: false
 translationKey: torre-prado-residences
 seo: 'Proyecto Destacado: Torre Prado Residences - Eurolux SRL'
-description: llll➤ Diseño, fabricación e instalación de Barandas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
+description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Torre Prado Residences II.
 gallery:
   columns: 3
 images:

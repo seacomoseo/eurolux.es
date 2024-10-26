@@ -6,7 +6,7 @@ draft: false
 noindex: false
 translationKey: el-kan-discoteca
 seo: 'Proyecto Destacado: Discoteca El Kan - Eurolux SRL'
-description: llll➤ Diseño, fabricación e instalación de Barandas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
+description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Discoteca El Kan.
 gallery:
   columns: 3
 images:

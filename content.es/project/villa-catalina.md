@@ -6,7 +6,7 @@ draft: false
 noindex: false
 translationKey: villa-catalina
 seo: 'Proyecto Destacado: Villa Catalina - Eurolux SRL'
-description: llll➤ Diseño, fabricación e instalación de Barandas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
+description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Villa Catalina.
 gallery:
   columns: 2
 images:

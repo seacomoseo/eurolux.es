@@ -1,6 +1,6 @@
 ---
 title: Ventanas y Puertas Correderas
-seo: Ventanas y Puertas Correderas en Rep. Dominicana - Eurolux SRL
+seo: Ventanas y Puertas Correderas Rep. Dominicana - Eurolux SRL
 slug: envolvente/ventanas-puertas-correderas
 description: llll➤ Diseño, fabricación e instalación de Ventanas y Puertas Correderas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 image: envolvente/ventanas-puertas-correderas/1.jpg

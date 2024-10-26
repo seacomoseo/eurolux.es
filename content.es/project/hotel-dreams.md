@@ -6,7 +6,7 @@ draft: false
 noindex: false
 translationKey: hotel-dreams
 seo: 'Proyecto Destacado: Hotel Dreams - Eurolux SRL'
-description: llll➤ Diseño, fabricación e instalación de Barandas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
+description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Hotel Dreams.
 gallery:
   columns: 2
 images:

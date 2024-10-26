@@ -6,7 +6,7 @@ draft: false
 noindex: false
 translationKey: villa-aryana
 seo: 'Proyecto Destacado: Villa Aryana - Eurolux SRL'
-description: llll➤ Diseño, fabricación e instalación de Barandas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
+description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Villa Aryana.
 gallery:
   columns: 1
 images:

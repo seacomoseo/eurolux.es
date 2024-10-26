@@ -1,6 +1,6 @@
 name: Cabecera
 node: header
-align: left
+align: center
 boxes:
 - if: breadcrumbs
   node: nav
@@ -8,7 +8,8 @@ boxes:
     {{< breadcrumbs >}}
 - title: '{{% param title %}}'
   icon: '{{ param icon }}'
-  icon_type: side
+  icon_type: bottom
+  subtitle: Diseño, Fabricación e Instalación
 # - tags:
 #   - type: type
 #   - type: date

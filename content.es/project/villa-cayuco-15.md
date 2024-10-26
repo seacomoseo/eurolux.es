@@ -6,7 +6,7 @@ draft: false
 noindex: false
 translationKey: villa-cayuco-15
 seo: 'Proyecto Destacado: Villa Cayuco 15 - Eurolux SRL'
-description: llll➤ Diseño, fabricación e instalación de Barandas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
+description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Villa Cayuco 15.
 gallery:
   columns: 2
 images:
