@@ -23,6 +23,8 @@ sections:
 - file: certificaciones
 - file: resenas
 - file: contacto
+
+base: organization
 types:
 - LocalBusiness
 - Organization

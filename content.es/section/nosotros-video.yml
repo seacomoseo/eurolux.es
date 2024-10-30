@@ -1,0 +1,44 @@
+name: Nosotros
+title: Nosotros
+subtitle: Quienes Somos
+color: white
+icon: circle-info
+box:
+  columns: 2
+  gap_min: 0
+  padding: 3
+  padding_min: 1
+  align_y: strech
+  align: left
+boxes:
+- order: 1
+  bg: nosotros/equipo.jpg
+  rate: 3x2
+- order: 2
+  content: |
+    En Eurolux SRL, somos una empresa joven, respaldada por un equipo de profesionales altamente cualificados con más de 20 años de experiencia en el sector.
+
+    Nos especializamos en el diseño, fabricación e instalación de soluciones innovadoras en carpintería de aluminio, fachadas ligeras y sistemas de protección solar.
+
+    Trabajamos con materiales 100% europeos, garantizando productos de la más alta calidad y durabilidad para nuestros clientes.
+  align_y: center
+- order: 4
+  bg: eurolux.mp4
+  rate: 3x4
+- order: 3
+  content: |
+    Nuestra capacidad de producción se potencia con nuestro taller de fabricación ubicado en España, lo que nos permite asegurar la excelencia en cada proyecto.
+
+    Nuestra propuesta de valor se basa en la colaboración estratégica con nuestros clientes, ofreciendo soluciones personalizadas que responden a las exigencias técnicas y estéticas de cada proyecto, tanto en construcción nueva como en rehabilitación.
+
+    Desde la concepción del diseño hasta la instalación final, nos enfocamos en brindar eficiencia, durabilidad y rendimiento energético, garantizando productos que cumplen con los más altos estándares internacionales.
+
+    La calidad, la innovación y la experiencia son los pilares que definen nuestra actividad en Eurolux SRL.
+
+    Estamos comprometidos en superar las expectativas de nuestros clientes, ofreciendo soluciones sostenibles que aseguren un rendimiento óptimo y duradero en cada proyecto.
+
+    Porque en Eurolux SRL, construimos más que espacios, construimos confianza y calidad que perduran en el tiempo.
+
+    [btn:font-alt icon:crown Proyectos Destacados](#proyectos-destacados)
+  align_max: right
+  align_y: center
