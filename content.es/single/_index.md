@@ -53,7 +53,7 @@ address:
   pc: '23000'
   locality: Bavaro
   region: Punta Cana
-  country: República Dominicana
+  country: DO
   geo: '{"type":"Point","coordinates":[-68.4123660,18.6828550]}'
   link: ''
 areas:
