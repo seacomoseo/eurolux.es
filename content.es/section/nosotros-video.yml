@@ -13,7 +13,7 @@ box:
 boxes:
 - order: 1
   bg: nosotros/equipo.jpg
-  rate: 3x2
+  rate: 3/2
 - order: 2
   content: |
     En Eurolux SRL, somos una empresa joven, respaldada por un equipo de profesionales altamente cualificados con más de 20 años de experiencia en el sector.
@@ -24,7 +24,7 @@ boxes:
   align_y: center
 - order: 4
   bg: eurolux.mp4
-  rate: 3x4
+  rate: 3/4
 - order: 3
   content: |
     Nuestra capacidad de producción se potencia con nuestro taller de fabricación ubicado en España, lo que nos permite asegurar la excelencia en cada proyecto.

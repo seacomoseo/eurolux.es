@@ -13,7 +13,7 @@ box:
   gap_min: 1.5
   gap_ny: 1
   grayscale: true
-  ratio: 18x6
+  ratio: 18/6
   button: hide
 boxes:
 - image: marcas/saheco.svg

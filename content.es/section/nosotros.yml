@@ -36,7 +36,7 @@ boxes:
   align_y: center
 - order: 5
   bg: eurolux.mp4
-  rate: 4x3
+  rate: 4/3
 - order: 6
   content: |
     La calidad, la innovación y la experiencia son los pilares que definen nuestra actividad en Eurolux SRL.
