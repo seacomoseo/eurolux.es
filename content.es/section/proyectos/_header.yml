@@ -10,6 +10,7 @@ boxes:
   span: .25
   span_min: .5
 - title: '{{ param title }}'
+  uppercase: true
   subtitle: Proyecto Destacado
   icon_type: bottom
   content: |

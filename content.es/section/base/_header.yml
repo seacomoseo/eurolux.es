@@ -7,6 +7,7 @@ boxes:
   content: |
     {{< breadcrumbs >}}
 - title: '{{% param title %}}'
+  uppercase: true
   icon: '{{ param icon }}'
   icon_type: bottom
   subtitle: Diseño, Fabricación e Instalación
