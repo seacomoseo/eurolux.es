@@ -10,7 +10,7 @@ translationKey: barandas
 category: envolvente
 icon: window-frame
 gallery:
-  columns: 3
+  cols: 3
 images:
 - envolvente/barandas/1.jpg
 - envolvente/barandas/2.jpg

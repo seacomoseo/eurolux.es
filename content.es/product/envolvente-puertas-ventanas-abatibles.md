@@ -10,7 +10,7 @@ translationKey: puertas-ventanas-abatibles
 category: envolvente
 icon: window-frame
 gallery:
-  columns: 2
+  cols: 2
 images:
 - envolvente/puertas-ventanas-abatibles/1.jpg
 - envolvente/puertas-ventanas-abatibles/2.jpg

@@ -7,6 +7,6 @@ size: lg
 list:
   type: project
 box:
-  columns: 4
+  cols: 4
   slider: true
   interval: 5

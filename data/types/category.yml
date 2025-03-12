@@ -4,7 +4,6 @@ taxonomy_of:
 - name: product
   breadcrumbs: true
 params:
-- name: ~BOX_ICON_ID
 - name: weight
   label: Orden
   hint: Orden en el que aparecen las páginas
@@ -18,7 +17,7 @@ template:
     image: hide
     icon: bookmark
     hs: 3
-    licon: plus
-    button: link
+    pin: plus
+    button: cta
 es:
   permalinks: productos

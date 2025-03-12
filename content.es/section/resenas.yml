@@ -8,53 +8,53 @@ boxes:
     color: white
     slider: true
     interval: 8
-    columns: 3
+    cols: 3
   reviews:
   - title: Hendry R.
-    content: |
+    md: |
       Materiales de calidad superior y un excelente servicio.
 
       Los mejores.
     rating: 5
   - title: Marketa S.
-    content: |
+    md: |
       Mi experiencia con Eurolux SRL fue muy buena.
 
       Los productos que ofrecen, en mi caso ventanas, son de muy buena calidad y su equipo muy profesional y responsable.
     rating: 5
   - title: Ebert V.
-    content: |
+    md: |
       Excelente personal y siempre dan un servicio optimo....
     rating: 5
   - title: Milko B.
-    content: |
+    md: |
       Muy buen servicio.
 
       100% recomendado
     rating: 5
   - title: Angely O.
-    content: |
+    md: |
       Excelentes en el servicio, la asistencia y responsabilidad en sus entrega me dejo satisfecha como cliente, también la calidad de sus productos son de primera.
 
       Brindan mucha confianza y siempre están dispuestos a colaborar en cualquier inquietud del cliente.
     rating: 5
   - title: Carlos T.
-    content: |
+    md: |
       Me dieron un servicio excelente, mucha calidad en los materiales, se nota que son 100% europeos, buena instalación, sin duda grandes profesionales, se los estoy recomendando a todo mi entorno.
     rating: 5
   - title: Isaac M.
-    content: |
+    md: |
       Excelente, utilizo sus productos en todas mis propiedades.
 
       Buen servicio, buena calidad y buenos precios.
     rating: 5
   - title: Arisleidy D.
-    content: |
+    md: |
       Encantada con los servicios y las atenciones de Eurolux 🥰…
     rating: 5
 - boxes:
-  - content: |
+  - md: |
       Más reseñas:
       {.subtitle}
 
-      [btn icon:star Google](https://g.page/r/CSUgV5RIKLWvEAg/review "noindex")
+      [[:star: Google]](https://g.page/r/CSUgV5RIKLWvEAg/review "[nofollow]")

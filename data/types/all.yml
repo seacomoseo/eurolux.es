@@ -59,7 +59,7 @@ template:
       - link: /#contacto
         label: Contacto
         icon: paper-plane
-        button: link
+        button: cta
   callnow:
     show: auto
     es: []
@@ -80,12 +80,12 @@ template:
   - file: base/share
   - file: base/related
   list:
-    columns: 3
+    cols: 3
     card: true
     icon: hide
     hs: 3
-    content: hide
-    licon: plus
-    button: link
+    md: hide
+    pin: plus
+    button: cta
   related:
     slider: true

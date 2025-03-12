@@ -10,7 +10,7 @@ translationKey: puertas-garaje
 category: envolvente
 icon: window-frame
 gallery:
-  columns: 1
+  cols: 1
 images:
 - envolvente/puertas-garaje/1.jpg
 ---

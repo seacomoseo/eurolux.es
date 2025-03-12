@@ -8,6 +8,6 @@ params:
 - box: images
 gallery:
   type: rows
-  columns: 2
+  cols: 2
   color: white
   button: hide

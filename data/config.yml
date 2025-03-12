@@ -7,3 +7,5 @@ langs:
   time_zone: America/Santo_Domingo
   currency: DOP
   phone_code: 1
+others:
+  show: true

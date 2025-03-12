@@ -4,18 +4,18 @@ subtitle: Quienes Somos
 color: white
 icon: circle-info
 box:
-  columns: 2
-  gap_min: 0
-  padding: 2
-  # padding: 3
-  padding_min: 1
+  cols: 2
+  gap_vs: 0
+  pd: 2
+  # pd: 3
+  pd_vs: 1
   align_y: strech
   align: left
 boxes:
 - order: 1
   bg: nosotros/equipo.jpg
 - order: 2
-  content: |
+  md: |
     En Eurolux SRL, somos una empresa joven, respaldada por un equipo de profesionales altamente cualificados con más de 20 años de experiencia en el sector.
 
     Nos especializamos en el diseño, fabricación e instalación de soluciones innovadoras en carpintería de aluminio, fachadas ligeras y sistemas de protección solar.
@@ -27,16 +27,16 @@ boxes:
 - order: 4
   bg: envolvente/vidrios-control-solar/1.jpg
 - order: 3
-  content: |
+  md: |
     Nuestra propuesta de valor se basa en la colaboración estratégica con nuestros clientes, ofreciendo soluciones personalizadas que responden a las exigencias técnicas y estéticas de cada proyecto, tanto en construcción nueva como en rehabilitación.
 
     Desde la concepción del diseño hasta la instalación final, nos enfocamos en brindar eficiencia, durabilidad y rendimiento energético, garantizando productos que cumplen con los más altos estándares internacionales.
-  align_max: right
+  align_vl: right
   align_y: center
 - order: 5
   bg: envolvente/ventanas-puertas-correderas/6.jpg
 - order: 6
-  content: |
+  md: |
     La calidad, la innovación y la experiencia son los pilares que definen nuestra actividad en Eurolux SRL.
 
     Estamos comprometidos en superar las expectativas de nuestros clientes, ofreciendo soluciones sostenibles que aseguren un rendimiento óptimo y duradero en cada proyecto.

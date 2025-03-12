@@ -10,7 +10,7 @@ translationKey: cortinas-permas
 category: proteccion-solar
 icon: shutters
 gallery:
-  columns: 2
+  cols: 2
 images:
 - proteccion-solar/cortinas-permas/1.jpg
 - proteccion-solar/cortinas-permas/2.jpg

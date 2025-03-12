@@ -10,7 +10,7 @@ translationKey: ventanas-oscilo-batientes
 category: envolvente
 icon: window-frame
 gallery:
-  columns: 3
+  cols: 3
 images:
 - envolvente/ventana-oscilo-batiente/apertura-batiente.jpg
 - envolvente/ventana-oscilo-batiente/apertura-oscilo.jpg

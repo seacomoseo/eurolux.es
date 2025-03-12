@@ -4,10 +4,10 @@ subtitle: Sabemos que tu proyecto nos necesita por que…
 icon: star
 color: white
 box:
-  columns: 2
-  gap_min: 0
-  padding: 2
-  padding_min: 1
+  cols: 2
+  gap_vs: 0
+  pd: 2
+  pd_vs: 1
   align_y: strech
   uppercase: true
   underline: true
@@ -17,17 +17,17 @@ boxes:
 - title: Vives
   subtitle: SOSTENIBILIDAD
   order: 0
-  content: |
+  md: |
     Porque vivir ya no significa desarrollarse dentro de un mundo limitado por muros. Perfeccionado nuestra gama de sistemas de carpintería de aluminio y toldos, para ofrecer los productos exactos en cada tipo de edificación y en cada ubicación dentro de la misma, permitirá conciliar la responsabilidad medioambiental con el confort deseado.
   align_y: center
   align: left
-  align_max: right
+  align_vl: right
 - order: 2
   bg: nosotros/sientes-puro-confort.jpg
 - title: Sientes
   subtitle: PURO CONFORT
   order: 3
-  content: |
+  md: |
     Necesitas productos que se ajusten a tus hábitos y no al revés. En Eurolux buscamos el bienestar y la comodidad en cada uno de tus espacios, ya sea en casa, en la oficina, espacios comerciales y en cualquier otra edificación en la que transcurre parte de nuestra vida.
   align_y: center
   align: left
@@ -36,8 +36,8 @@ boxes:
 - title: Disfrutas
   subtitle: DISEÑO
   order: 4
-  content: |
+  md: |
     Ofrecemos cerramientos con diseños rectos, limpios, puros, que permiten conectar las estancias con el exterior, pero sin renunciar al máximo confort. Desde el momento en el que planeas una reforma o nueva construcción, nos adaptamos al grado de confort que quieres disfrutar.
   align_y: center
   align: left
-  align_max: right
+  align_vl: right

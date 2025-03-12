@@ -2,9 +2,10 @@ baseURL: https://eurolux.es
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://github.com/seacomoseo/eurolux.es
-  netlify_name: euroluxsrl
+  domain: eurolux.es
+  name: euroluxsrl
   netlify_id: 84dc6fe8-efba-4bde-adcb-c22575f45767
-  hook: NjM0N2UwNzliYmU1OTcwZWEwZTAzZGEz
+  netlify_hook: NjM0N2UwNzliYmU1OTcwZWEwZTAzZGEz
+  cloudflare_id: 
   drive_link: https://drive.google.com/file/d/1CjLhC3_sgnNgCas6pYR_uRBbdGL-bCjl
   drive_mails: angela.caba26@gmail.com

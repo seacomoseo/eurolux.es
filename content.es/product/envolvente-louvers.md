@@ -10,7 +10,7 @@ translationKey: louvers
 category: envolvente
 icon: window-frame
 gallery:
-  columns: 2
+  cols: 2
 images:
 - envolvente/louvers/1.jpg
 - envolvente/louvers/2.jpg

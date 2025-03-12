@@ -10,7 +10,7 @@ translationKey: shutters-anticiclonicos
 category: proteccion-solar
 icon: shutters
 gallery:
-  columns: 2
+  cols: 2
 images:
 - proteccion-solar/shutters-anticiclonicos/1.jpg
 - proteccion-solar/shutters-anticiclonicos/3.jpg

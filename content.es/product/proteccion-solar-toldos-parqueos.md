@@ -10,7 +10,7 @@ translationKey: toldos-parqueos
 category: proteccion-solar
 icon: shutters
 gallery:
-  columns: 2
+  cols: 2
 images:
 - proteccion-solar/toldos-parqueos/1.jpg
 - proteccion-solar/toldos-parqueos/2.jpg

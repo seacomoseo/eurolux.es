@@ -10,7 +10,7 @@ translationKey: ventanas-puertas-correderas
 category: envolvente
 icon: window-frame
 gallery:
-  columns: 2
+  cols: 2
 images:
 - envolvente/ventanas-puertas-correderas/1.jpg
 - envolvente/ventanas-puertas-correderas/2.jpg

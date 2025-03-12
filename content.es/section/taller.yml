@@ -5,8 +5,8 @@ color: light
 icon: screwdriver-wrench
 hanchor: Taller
 box:
-  columns: 3
-  grayscale: true
+  cols: 3
+  gray: true
   button: hide
 boxes:
 - image: marcas/cfthader.svg

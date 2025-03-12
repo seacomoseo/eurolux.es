@@ -8,7 +8,7 @@ translationKey: hotel-dreams
 seo: 'Proyecto Destacado: Hotel Dreams - Eurolux SRL'
 description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Hotel Dreams.
 gallery:
-  columns: 3
+  cols: 3
 images:
 - proyectos/hotel-dreams/2023-06-23-17-47-39.jpg
 - proyectos/hotel-dreams/2023-06-23-18-20-01.jpg
@@ -18,5 +18,5 @@ images:
 - proyectos/hotel-dreams/2023-08-01_17-29-50.webm#mute
 # - proyectos/hotel-dreams/2023-10-06_18-42-49.webm#mute
 ---
-- icon:house Reidencia Privada
-- icon:shutters Toldo Kuadbox motorizado con luces led
+- :house: Reidencia Privada
+- :shutters: Toldo Kuadbox motorizado con luces led

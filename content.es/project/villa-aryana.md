@@ -8,7 +8,7 @@ translationKey: villa-aryana
 seo: 'Proyecto Destacado: Villa Aryana - Eurolux SRL'
 description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Villa Aryana.
 gallery:
-  columns: 1
+  cols: 1
 images:
 - proyectos/villa-aryana/2023-04-12-16-49-58.jpg
 - proyectos/villa-aryana/2023-06-05-11-59-52.jpg
@@ -19,5 +19,5 @@ images:
 - proyectos/villa-aryana/2023-06-05-12-22-28.jpg
 - proyectos/villa-aryana/2023-06-05-12-23-35.jpg
 ---
-- icon:people-group Gesproin Group
-- icon:window-frame Carpinteria en aluminio y protección solar
+- :people-group: Gesproin Group
+- :window-frame: Carpinteria en aluminio y protección solar

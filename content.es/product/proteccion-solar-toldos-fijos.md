@@ -10,7 +10,7 @@ translationKey: toldos-fijos
 category: proteccion-solar
 icon: shutters
 gallery:
-  columns: 2
+  cols: 2
 images:
 - proteccion-solar/toldos-fijos/1.jpg
 - proteccion-solar/toldos-fijos/2.jpg

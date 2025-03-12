@@ -10,7 +10,7 @@ translationKey: toldos-velarias
 category: proteccion-solar
 icon: shutters
 gallery:
-  columns: 2
+  cols: 2
 images:
 - proteccion-solar/toldos-velarias/1.jpg
 - proteccion-solar/toldos-velarias/2.jpg

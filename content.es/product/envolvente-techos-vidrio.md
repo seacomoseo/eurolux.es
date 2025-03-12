@@ -10,7 +10,7 @@ translationKey: techos-vidrio
 category: envolvente
 icon: window-frame
 gallery:
-  columns: 4
+  cols: 4
 images:
 - envolvente/techos-vidrio/1.jpg
 - envolvente/techos-vidrio/2.jpg

@@ -4,10 +4,10 @@ subtitle: De nuestros proveedores
 color: light
 icon: badge-check
 box:
-  columns: 6
-  columns_min: 2
+  cols: 6
+  cols_vs: 2
   gap: 2
-  grayscale: true
+  gray: true
   ratio: 3/2
   button: hide
 boxes:

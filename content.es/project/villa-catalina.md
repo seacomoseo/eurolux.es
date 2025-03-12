@@ -8,7 +8,7 @@ translationKey: villa-catalina
 seo: 'Proyecto Destacado: Villa Catalina - Eurolux SRL'
 description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Villa Catalina.
 gallery:
-  columns: 2
+  cols: 2
 images:
 - proyectos/villa-catalina/2017-04-26-16-33-44.jpg
 - proyectos/villa-catalina/2017-04-26-16-35-14.jpg
@@ -43,5 +43,5 @@ images:
 - proyectos/villa-catalina/2018-10-25-16-13-01.jpg
 - proyectos/villa-catalina/2017-04-26-16-56-43.jpg
 ---
-- icon:people-group Grupo E8
-- icon:window-frame Carpinteria en aluminio y vidrio
+- :people-group: Grupo E8
+- :window-frame: Carpinteria en aluminio y vidrio

@@ -6,7 +6,7 @@ icon: window-frame
 box_color: light
 box:
   card: true
-  columns: 3
+  cols: 3
 boxes:
 - title: Vidrios Control Solar
   link: /vidrios-control-solar/

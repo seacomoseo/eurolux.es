@@ -3,16 +3,16 @@ title: Marcas
 subtitle: En las que confiamos
 color: white
 icon: certificate
-content: |
+md: |
   Solo trabajamos e importamos las más prestigiosas marcas europeas para que la calidad y durabilidad en nuestros trabajos hablen por nosotros
 align: center
 box:
-  columns: 5
-  columns_min: 2
+  cols: 5
+  cols_vs: 2
   gap: 2
-  gap_min: 1.5
+  gap_vs: 1.5
   gap_ny: 1
-  grayscale: true
+  gray: true
   ratio: 18/6
   button: hide
 boxes:

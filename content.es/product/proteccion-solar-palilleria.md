@@ -10,7 +10,7 @@ translationKey: palilleria
 category: proteccion-solar
 icon: shutters
 gallery:
-  columns: 2
+  cols: 2
 images:
 - proteccion-solar/palilleria/1.jpg
 - proteccion-solar/palilleria/2.jpg

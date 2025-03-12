@@ -4,7 +4,7 @@ align: center
 boxes:
 - if: breadcrumbs
   node: nav
-  content: |
+  md: |
     {{< breadcrumbs >}}
 - title: '{{% param title %}}'
   uppercase: true

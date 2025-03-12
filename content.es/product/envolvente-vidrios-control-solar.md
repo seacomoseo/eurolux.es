@@ -10,7 +10,7 @@ translationKey: vidrios-control-solar
 category: envolvente
 icon: window-frame
 gallery:
-  columns: 4
+  cols: 4
 images:
 - envolvente/vidrios-control-solar/1.jpg
 - envolvente/vidrios-control-solar/2.jpg

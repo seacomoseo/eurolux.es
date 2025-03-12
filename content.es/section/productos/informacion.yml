@@ -1,7 +1,7 @@
 name: Informacion
 if: content
 color: white
-content: |
+md: |
   {{% content %}}
 size: sm
 align: left

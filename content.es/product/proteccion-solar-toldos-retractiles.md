@@ -10,7 +10,7 @@ translationKey: toldos-retractiles
 category: proteccion-solar
 icon: shutters
 gallery:
-  columns: 3
+  cols: 3
 images:
 - proteccion-solar/toldos-retractiles/1.jpg
 - proteccion-solar/toldos-retractiles/2.jpg

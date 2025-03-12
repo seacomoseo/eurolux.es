@@ -10,7 +10,7 @@ translationKey: mamparas-bano
 category: envolvente
 icon: window-frame
 gallery:
-  columns: 4
+  cols: 4
 images:
 - envolvente/mamparas-bano/1.jpg
 - envolvente/mamparas-bano/2.jpg

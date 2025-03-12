@@ -3,7 +3,7 @@ title: Inicio
 seo: 'Eurolux SRL: Fachadas y Envolventes en República Dominicana'
 slug: inicio
 description: llll➤ Diseño, fabricación e instalación de todo tipo de envolvente y fachada ligera para su proyecto ✅ aluminio y vidrio, toldos y palilleras, shutters…
-image: base/logo.png
+image: base/poster.png
 draft: false
 noindex: false
 translationKey: home
@@ -34,7 +34,7 @@ summary: Diseño, fabricación e instalación de todo tipo de envolvente y facha
 legal: Eurolux SRL
 nif: 132-59751-6
 email: ''
-logo: base/logo.png
+logo: base/poster.png
 images:
 - nosotros/disfruta-diseno.jpg
 - nosotros/juan-carlos-tomas-gonzalez.jpg

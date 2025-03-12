@@ -8,7 +8,7 @@ translationKey: villa-15-de-mayo-jarabacoa
 seo: 'Proyecto Destacado: Villa 15 de Mayo Jarabacoa - Eurolux SRL'
 description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Villa 15 de Mayo Jarabacoa.
 gallery:
-  columns: 2
+  cols: 2
 images:
 - proyectos/villa-15-de-mayo-jarabacoa/2024-02-15-09-11-50.jpg
 - proyectos/villa-15-de-mayo-jarabacoa/2024-02-15-09-12-17.jpg
@@ -17,4 +17,4 @@ images:
 - proyectos/villa-15-de-mayo-jarabacoa/2024-02-15-15-09-02.jpg
 - proyectos/villa-15-de-mayo-jarabacoa/2024-02-15-15-09-40.jpg
 ---
-- icon:shutters Toldo Aland motorizado
+- :shutters: Toldo Aland motorizado

@@ -9,8 +9,8 @@ box:
   gap_ny: 3
 boxes:
 - box:
-    columns: 5
-    columns_min: 2
+    cols: 5
+    cols_vs: 2
     hs: 6
   boxes:
   - icon: cloud-sun-rain
@@ -26,8 +26,8 @@ boxes:
 - boxes:
   - subtitle: Utilizadas en...
 - box:
-    columns: 5
-    columns_min: 2
+    cols: 5
+    cols_vs: 2
     hs: 6
   boxes:
   - icon: hotel
@@ -41,7 +41,7 @@ boxes:
   - icon: landmark
     title: Espacios públicos
 - boxes:
-  - content: |
+  - md: |
       Entre otros...
 
       Pueden ser fabricadas en membrana textil Vertilux®, con 5 años de garantía.

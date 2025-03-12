@@ -5,12 +5,12 @@ color: white
 icon: handshake-simple
 align: center
 gallery:
-  grayscale: true
-  columns: 3
+  gray: true
+  cols: 3
 limages:
-- image: base/logo-grupo-inalsa.svg
+- image: marcas/grupo-inalsa.svg
   link: https://www.grupoinalsa.com/
-- image: base/logo-proma.svg
+- image: marcas/proma.svg
   link: https://pproma.es/
-- image: base/logo-dbgroup.svg
+- image: marcas/dbgroup.svg
   link: https://dbgroupherrajes.com/

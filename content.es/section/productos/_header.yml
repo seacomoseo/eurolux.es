@@ -6,14 +6,14 @@ alpha: 0.9
 box:
   gap_ny: 2
 boxes:
-- image: base/logo-alt.svg
-  span: .25
-  span_min: .5
+- image: base/logo.svg
+  fit: .25
+  fit_vs: .5
 - title: '{{ param title }}'
   uppercase: true
   subtitle: Diseño, Fabricación e Instalación
   icon_type: bottom
-  content: |
-    [btn icon:plus Más](#more)
+  md: |
+    [[:plus: Más]](#more)
   params:
   - box: icon

@@ -10,7 +10,7 @@ translationKey: paraguas-fijos
 category: proteccion-solar
 icon: shutters
 gallery:
-  columns: 2
+  cols: 2
 images:
 - proteccion-solar/paraguas-fijos/1.jpg
 - proteccion-solar/paraguas-fijos/2.jpg
