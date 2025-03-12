@@ -30,6 +30,7 @@ types:
 - Organization
 names:
 - Eurolux SRL
+- EUROLUX SRL
 summary: Diseño, fabricación e instalación de todo tipo de envolvente y fachada ligera para su proyecto en República Dominicana; aluminio y vidrio, toldos y palilleras, shutters…
 legal: Eurolux SRL
 nif: 132-59751-6
@@ -48,14 +49,14 @@ social:
 phones:
 - +1 829 515 2662
 address:
-  name: Eurolux SRL
+  name: EUROLUX SRL
   street: Calle Marcio Maggiolo, Los Corales
   pc: '23000'
   locality: Bavaro
   region: Punta Cana
   country: DO
   geo: '{"type":"Point","coordinates":[-68.4123660,18.6828550]}'
-  link: ''
+  link: https://g.page/r/CSUgV5RIKLWvEAg
 areas:
 - República Dominicana
 schedule:

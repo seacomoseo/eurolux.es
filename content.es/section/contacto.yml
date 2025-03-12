@@ -19,8 +19,10 @@ contact:
   button: cta
 - type: address
   button: light
-  label: Calle Marcio Maggiolo, Los Corales, 23000 Bavaro, Punta Cana
+  label: Punta Cana 23000, República Dominicana
   anchor: Eurolux SRL, Calle Marcio Maggiolo, Los Corales, 23000 Bavaro, Punta Cana
+  link: https://g.page/r/CSUgV5RIKLWvEAg
+  full: true
 - type: custom
   link: https://instagram.com/eurolux_srl
   label: '@eurolux_srl'
