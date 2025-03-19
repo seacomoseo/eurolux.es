@@ -5,7 +5,7 @@ emoji: 👑
 params:
 - name: ~BOX_GALLERY
 - name: ~BOX_GALLERY_IMAGES
-template:
+tpl:
   menu:
     logo: false
   sections:

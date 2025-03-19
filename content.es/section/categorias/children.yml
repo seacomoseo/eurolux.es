@@ -1,0 +1,20 @@
+name: Lista de Páginas
+node: nav
+if: children
+id: lists
+size: md
+pt: 0
+boxes:
+- if: taxonomy
+  params:
+  - page: filename
+    box: list.{{ type }}
+  list:
+    type: all
+- if: '{{ param toc }}' # Check TOC
+  params:
+  - page: filename
+    box: list.{{ type }}
+  icon: triangle-person-digging
+  icon_type: top
+  title: En Construcción

@@ -2,7 +2,7 @@
 slug: envolvente
 title: Envolvente
 summary: null # string
-image: envolvente/barandas/1.jpg
+# image: envolvente/barandas/1.jpg
 icon: window-frame
 weight: 1
 toc: false

@@ -1,16 +1,27 @@
 title: Categorías
 base: page
-taxonomy_of:
+tax_of:
 - name: product
   breadcrumbs: true
-params:
-- name: weight
-  label: Orden
-  hint: Orden en el que aparecen las páginas
-  type: int
-template:
+# params:
+# - name: weight
+#   label: Orden
+#   hint: Orden en el que aparecen las páginas
+#   type: int
+tpl:
   menu:
     logo: false
+  sections:
+  - file: categorias/_header
+  - file: base/toc
+  - file: base/content
+  - file: base/address
+  - file: base/author
+  - file: base/social
+  - file: base/comments
+  - file: categorias/children
+  - file: base/share
+  - file: base/related
   list:
     color: white
     card: false

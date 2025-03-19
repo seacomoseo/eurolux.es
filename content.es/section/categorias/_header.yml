@@ -4,19 +4,20 @@ align: center
 boxes:
 - if: breadcrumbs
   node: nav
-  md: |
-    {{< breadcrumbs >}}
-- title: '{{% param title %}}'
-  uppercase: true
-  icon: '{{ param icon }}'
+  md: '{{< breadcrumbs >}}'
+- if: icon
+  params:
+  - box: title
+  - box: icon
   icon_type: bottom
+  uppercase: true
   subtitle: Diseño, Fabricación e Instalación
 # - tags:
 #   - type: type
 #   - type: date
 #   - type: address
-#   - type: taxonomy
-#     taxonomy: all
+#   - type: tax
+#     tax: all
 #   - type: param
 #     param: place
 #     icon: location-dot

@@ -1,15 +1,20 @@
 title: Únicas
 order: 0
 base: single
-template:
+tpl:
   menu:
     logo: false
     sticky: auto
   callnow:
     show: auto
   section:
-  - uppercase: true
+  - size: lg
     parallax: fix
     alpha: 0.9
+    uppercase: true
   modal:
     uppercase: true
+  list:
+    color: white
+    card: false
+    ratio: 2/1

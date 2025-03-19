@@ -10,7 +10,7 @@ params:
   label: Velarias
   hint: Activa la información con iconos por columnas de las velarias
   type: boolean
-template:
+tpl:
   menu:
     logo: false
   sections:

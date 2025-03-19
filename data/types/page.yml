@@ -1,2 +1,11 @@
 title: Páginas
 order: 0
+tpl:
+  list:
+    color: white
+    card: false
+    image: hide
+    icon: file
+    hs: 3
+    pin: plus
+    button: cta

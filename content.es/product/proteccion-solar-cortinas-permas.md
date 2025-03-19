@@ -28,6 +28,6 @@ Protege tus áreas de la lluvia moderada y disminuye el resplandor del sol sin p
 
 Es la alternativa más práctica y económica para proteger espacios exteriores.
 
-Usamos únicamente tejidos Vertilux®, que son antibacterianos; están libres de plomo y sustancias nocivas ; y son retardantes del fuego.
+Usamos únicamente tejidos Vertilux®, que son antibacterianos; están libres de plomo y sustancias nocivas; y son retardantes del fuego.
 
 Medidas máximas recomendadas 6.00 ancho x 3.00 alto.

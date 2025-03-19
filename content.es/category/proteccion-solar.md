@@ -2,7 +2,7 @@
 slug: proteccion-solar
 title: Protección Solar
 summary: null # string
-image: proteccion-solar/barandas/1.jpg
+# image: proteccion-solar/barandas/1.jpg
 icon: shutters
 weight: 2
 toc: false

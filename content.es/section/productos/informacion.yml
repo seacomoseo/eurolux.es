@@ -1,8 +1,9 @@
 name: Informacion
 if: content
 color: white
-md: |
-  {{% content %}}
+params:
+- page: content
+  box: md
 size: sm
-align: left
+# align: left
 hanchor: Información

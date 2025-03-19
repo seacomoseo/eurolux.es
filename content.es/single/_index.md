@@ -1,28 +1,30 @@
 ---
-title: Inicio
-seo: 'Eurolux SRL: Fachadas y Envolventes en República Dominicana'
 slug: inicio
-description: llll➤ Diseño, fabricación e instalación de todo tipo de envolvente y fachada ligera para su proyecto ✅ aluminio y vidrio, toldos y palilleras, shutters…
+title: Inicio
 image: base/poster.png
 draft: false
 noindex: false
 translationKey: home
-sections:
-- file: _header
-- file: nosotros #-video
-- file: equipo
-- file: proyectos/destacados
-- file: productos
-  # modals:
-  # - file: productos-envolvente
-  # - file: productos-proteccion-solar
-  # - file: productos-interiorismo
-- file: nos-caracteriza
-- file: taller
-- file: marcas
-- file: certificaciones
-- file: resenas
-- file: contacto
+seo: 'Eurolux SRL: Fachadas y Envolventes en República Dominicana'
+description: llll➤ Diseño, fabricación e instalación de todo tipo de envolvente y fachada ligera para su proyecto ✅ aluminio y vidrio, toldos y palilleras, shutters…
+
+tpl:
+  sections:
+  - file: _header
+  - file: nosotros #-video
+  - file: equipo
+  - file: proyectos/destacados
+  - file: productos
+    # modals:
+    # - file: productos-envolvente
+    # - file: productos-proteccion-solar
+    # - file: productos-interiorismo
+  - file: nos-caracteriza
+  - file: taller
+  - file: marcas
+  - file: certificaciones
+  - file: resenas
+  - file: contacto
 
 base: organization
 types:
