@@ -3,7 +3,6 @@ order: 0
 base: single
 tpl:
   menu:
-    logo: false
     sticky: auto
   callnow:
     show: auto

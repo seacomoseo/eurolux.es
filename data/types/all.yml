@@ -4,14 +4,14 @@ tpl:
   back:
     color: light
   menu:
-    logo: true
+    logo: false
     logo_align: center
     transparent: true
     size: xl
     sticky: auto
     color: white
     es:
-      image: base/logo-alt.svg
+      image: base/logo.svg
       items:
       - link: /
         label: Inicio

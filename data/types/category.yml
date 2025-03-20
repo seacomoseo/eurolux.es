@@ -3,16 +3,9 @@ base: page
 tax_of:
 - name: product
   breadcrumbs: true
-# params:
-# - name: weight
-#   label: Orden
-#   hint: Orden en el que aparecen las páginas
-#   type: int
 tpl:
-  menu:
-    logo: false
   sections:
-  - file: categorias/_header
+  - file: base/_header
   - file: base/toc
   - file: base/content
   - file: base/address

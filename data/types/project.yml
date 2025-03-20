@@ -6,8 +6,6 @@ params:
 - name: ~BOX_GALLERY
 - name: ~BOX_GALLERY_IMAGES
 tpl:
-  menu:
-    logo: false
   sections:
   - file: proyectos/_header
   - file: proyectos/portfolio

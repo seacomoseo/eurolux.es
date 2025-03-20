@@ -1,0 +1,21 @@
+name: Cabecera
+node: header
+align: center
+# box:
+#   gap_ny: 2
+boxes:
+- image: base/logo.svg
+  fit: .25
+  fit_vs: .5
+- params:
+  - box: title
+  uppercase: true
+- if: icon
+  params:
+  - box: icon
+  icon_type: bottom
+- subtitle: Diseño, Fabricación e Instalación
+- tags:
+  - type: type
+  - type: tax
+    tax: category

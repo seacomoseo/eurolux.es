@@ -3,7 +3,6 @@ base: service
 icon: rectangle-vertical-history
 emoji: 📚
 params:
-- name: ~BOX_ICON_ID
 - name: ~BOX_GALLERY
 - name: ~BOX_GALLERY_IMAGES
 - name: velarias
@@ -11,8 +10,6 @@ params:
   hint: Activa la información con iconos por columnas de las velarias
   type: boolean
 tpl:
-  menu:
-    logo: false
   sections:
   - file: productos/_header
   - file: productos/informacion

@@ -9,11 +9,11 @@ boxes:
 - image: base/logo.svg
   fit: .25
   fit_vs: .5
-- title: '{{ param title }}'
+- params:
+    - box: title
+    - box: icon
   uppercase: true
   subtitle: Diseño, Fabricación e Instalación
   icon_type: bottom
   md: |
     [[:plus: Más]](#more)
-  params:
-  - box: icon
