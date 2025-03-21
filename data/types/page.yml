@@ -1,10 +1,6 @@
 title: Páginas
 order: 100
 tpl:
-  menu:
-    logo: true
-    es:
-      image: base/logo.svg
   list:
     color: white
     card: false
