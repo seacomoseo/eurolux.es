@@ -3,8 +3,8 @@ base: page # [ article, event, product, brand, author, organization, service, pa
 icon: crown
 emoji: 👑
 params:
-- name: ~BOX_GALLERY
-- name: ~BOX_GALLERY_IMAGES
+- var: BOX_GALLERY
+- var: BOX_GALLERY_IMAGES
 tpl:
   sections:
   - file: proyectos/_header

@@ -3,12 +3,12 @@ base: service
 icon: rectangle-vertical-history
 emoji: 📚
 params:
-- name: ~BOX_GALLERY
-- name: ~BOX_GALLERY_IMAGES
+- var: BOX_GALLERY
+- var: BOX_GALLERY_IMAGES
 - name: velarias
   label: Velarias
   hint: Activa la información con iconos por columnas de las velarias
-  type: boolean
+  widget: boolean
 tpl:
   sections:
   - file: productos/_header

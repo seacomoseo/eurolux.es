@@ -5,7 +5,7 @@ summary: null # string
 # image: interiorismo/barandas/1.jpg
 icon: house-heart
 weight: 3
-toc: true # SET UNDER CONTRUCTION
+toc: false
 draft: false
 noindex: true
 translationKey: interiorismo

@@ -11,10 +11,7 @@ boxes:
     box: list.{{ type }}
   list:
     type: all
-- if: '{{ param toc }}' # Check TOC
-  params:
-  - page: filename
-    box: list.{{ type }}
+- if: '%%{{ eq page.Slug "interiorismo" }}%%'
   icon: triangle-person-digging
   icon_type: top
   title: En Construcción
