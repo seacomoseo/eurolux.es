@@ -12,7 +12,7 @@ boxes:
   - params:
     - box: title
     - box: icon
-    uppercase: true
+    caps: true
     icon_type: bottom
   - if: '%%{{ and (ne page.Type "page") (ne page.Type "system") }}%%'
     subtitle: Diseño, Fabricación e Instalación

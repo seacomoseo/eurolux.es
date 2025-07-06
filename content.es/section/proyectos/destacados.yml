@@ -9,4 +9,4 @@ list:
 box:
   cols: 4
   slider: true
-  interval: 5
+  time: 5

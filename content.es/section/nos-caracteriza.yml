@@ -9,11 +9,11 @@ box:
   pd: 2
   pd_vs: 1
   align_y: strech
-  uppercase: true
-  underline: true
+  caps: true
+  line: true
 boxes:
 - order: 1
-  bg: nosotros/vives-sostenibilidad.jpg
+  bi: nosotros/vives-sostenibilidad.jpg
 - title: Vives
   subtitle: SOSTENIBILIDAD
   order: 0
@@ -23,7 +23,7 @@ boxes:
   align: left
   align_vl: right
 - order: 2
-  bg: nosotros/sientes-puro-confort.jpg
+  bi: nosotros/sientes-puro-confort.jpg
 - title: Sientes
   subtitle: PURO CONFORT
   order: 3
@@ -32,7 +32,7 @@ boxes:
   align_y: center
   align: left
 - order: 5
-  bg: nosotros/disfruta-diseno.jpg
+  bi: nosotros/disfruta-diseno.jpg
 - title: Disfrutas
   subtitle: DISEÑO
   order: 4

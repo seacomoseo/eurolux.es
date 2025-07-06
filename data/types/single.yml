@@ -10,9 +10,9 @@ tpl:
   - size: lg
     parallax: fix
     alpha: 0.9
-    uppercase: true
+    caps: true
   modal:
-    uppercase: true
+    caps: true
   list:
     color: white
     card: false

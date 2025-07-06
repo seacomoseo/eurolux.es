@@ -27,8 +27,8 @@ tpl:
   - file: resenas
   - file: contacto
 
-base: organization
-organization:
+base: org
+org:
   types:
   - LocalBusiness
   - Organization
@@ -45,7 +45,7 @@ organization:
   - nosotros/juan-carlos-tomas-gonzalez.jpg
   - nosotros/sientes-puro-confort.jpg
   - nosotros/vives-sostenibilidad.jpg
-  social:
+  as:
   - https://g.page/r/CSUgV5RIKLWvEAg
   - https://instagram.com/eurolux_srl
   - https://www.linkedin.com/company/eurolux-srl/people/

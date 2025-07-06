@@ -9,7 +9,7 @@ box:
   gap: 4
   gap_vs: 2
   ratio: 1/1
-  underline: true
+  line: true
 boxes:
 - image: nosotros/juan-carlos-tomas-gonzalez.jpg
   title: Juan Carlos <br> Tomás González
@@ -17,11 +17,11 @@ boxes:
   link: https://www.linkedin.com/in/juan-carlos-tomas-a8437232
   pin: linkedin
   label: Linkedin
-  ofuscate: true
+  lock: true
 - image: nosotros/angela-caba-jimenez.jpg
   title: Angela <br> Caba Jiménez
   subtitle: CAO (Director Administrativo)
   link: https://www.linkedin.com/in/angela-caba-jim%C3%A9nez-22283017b/
   pin: linkedin
   label: Linkedin
-  ofuscate: true
+  lock: true

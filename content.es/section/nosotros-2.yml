@@ -13,7 +13,7 @@ box:
   align: left
 boxes:
 - order: 1
-  bg: nosotros/equipo.jpg
+  bi: nosotros/equipo.jpg
 - order: 2
   md: |
     En Eurolux SRL, somos una empresa joven, respaldada por un equipo de profesionales altamente cualificados con más de 20 años de experiencia en el sector.
@@ -25,7 +25,7 @@ boxes:
     Nuestra capacidad de producción se potencia con nuestro taller de fabricación ubicado en España, lo que nos permite asegurar la excelencia en cada proyecto.
   align_y: center
 - order: 4
-  bg: envolvente/vidrios-control-solar/1.jpg
+  bi: envolvente/vidrios-control-solar/1.jpg
 - order: 3
   md: |
     Nuestra propuesta de valor se basa en la colaboración estratégica con nuestros clientes, ofreciendo soluciones personalizadas que responden a las exigencias técnicas y estéticas de cada proyecto, tanto en construcción nueva como en rehabilitación.
@@ -34,7 +34,7 @@ boxes:
   align_vl: right
   align_y: center
 - order: 5
-  bg: envolvente/ventanas-puertas-correderas/6.jpg
+  bi: envolvente/ventanas-puertas-correderas/6.jpg
 - order: 6
   md: |
     La calidad, la innovación y la experiencia son los pilares que definen nuestra actividad en Eurolux SRL.

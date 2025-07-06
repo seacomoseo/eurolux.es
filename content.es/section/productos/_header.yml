@@ -1,7 +1,7 @@
 name: Header
 hanchor: Diseño, Fabricación e Instalación de {{ param title }} en República Dominicana
 color: light
-bg: '{{ param image }}'
+bi: '{{ param image }}'
 alpha: 0.9
 box:
   gap_ny: 2
@@ -12,7 +12,7 @@ boxes:
 - params:
     - box: title
     - box: icon
-  uppercase: true
+  caps: true
   subtitle: Diseño, Fabricación e Instalación
   icon_type: bottom
   md: |

@@ -1,7 +1,7 @@
 title: Todas
 tpl:
   toc: false
-  back:
+  bg:
     color: light
   menu:
     logo: false
@@ -65,7 +65,7 @@ tpl:
     es: []
   section:
   - size: sm
-    uppercase: true
+    caps: true
     parallax: fix
   modal: {}
   sections:

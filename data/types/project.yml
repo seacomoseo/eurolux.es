@@ -1,5 +1,5 @@
 title: Proyectos Destacados
-base: page # [ article, event, product, brand, author, organization, service, page ]
+base: page # [ article, event, product, brand, author, org, service, page ]
 icon: crown
 emoji: 👑
 params:

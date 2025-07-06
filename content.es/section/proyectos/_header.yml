@@ -1,6 +1,6 @@
 name: Header
 color: light
-bg: '{{ param image }}'
+bi: '{{ param image }}'
 alpha: 0.9
 box:
   gap_ny: 2
@@ -10,7 +10,7 @@ boxes:
   fit_vs: .5
 - title: '{{ param title }}'
   hanchor: 'Proyecto Destacado: {{ param title }}'
-  uppercase: true
+  caps: true
   subtitle: Proyecto Destacado
   icon_type: bottom
   md: |
