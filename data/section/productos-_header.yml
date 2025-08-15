@@ -1,0 +1,19 @@
+name: Productos ➡️ Header
+hanchor: Diseño, Fabricación e Instalación de {{ param title }} en República Dominicana
+color: light
+bi: '{{ param image }}'
+alpha: 0.9
+box:
+  gap_ny: 2
+boxes:
+- image: base/logo.svg
+  fit: 0.25
+  fit_vs: 0.5
+- params:
+  - to: title
+  - to: icon
+  caps: true
+  subtitle: Diseño, Fabricación e Instalación
+  icon_type: bottom
+  md: |
+    [[:plus: Más]](#more)

@@ -1,15 +1,15 @@
 title: Proyectos Destacados
-base: page # [ article, event, product, brand, author, org, service, page ]
+base: page
 icon: crown
 emoji: 👑
 params:
-- var: BOX_GALLERY
-- var: BOX_GALLERY_IMAGES
+- var: box_gallery
+- var: box_gallery_images
 tpl:
   sections:
-  - file: proyectos/_header
-  - file: proyectos/portfolio
-  - file: proyectos/destacados
+  - file: proyectos-_header
+  - file: proyectos-portfolio
+  - file: proyectos-destacados
   - file: productos
 es:
   permalinks: proyecto

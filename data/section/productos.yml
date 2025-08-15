@@ -1,0 +1,8 @@
+name: Productos
+title: Productos
+subtitle: Diseño, Fabricación e Instalación
+color: light
+size: md
+icon: rectangle-vertical-history
+list:
+  type: category

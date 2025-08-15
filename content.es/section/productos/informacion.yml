@@ -1,9 +1,0 @@
-name: Informacion
-if: content
-color: white
-params:
-- page: content
-  box: md
-size: sm
-# align: left
-hanchor: Información

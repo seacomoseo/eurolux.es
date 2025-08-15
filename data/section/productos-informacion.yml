@@ -1,0 +1,8 @@
+name: Productos ➡️ Informacion
+if: content
+color: white
+params:
+- from: content
+  to: md
+size: sm
+hanchor: Información

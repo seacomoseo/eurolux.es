@@ -1,0 +1,22 @@
+name: Base ➡️ Cabecera
+node: header
+align: center
+box:
+  gap_ny: 2
+boxes:
+- if: '%%{{ and (ne page.Type "page") (ne page.Type "system") }}%%'
+  image: base/logo.svg
+  fit: 0.25
+  fit_vs: 0.5
+- boxes:
+  - params:
+    - to: title
+    - to: icon
+    caps: true
+    icon_type: bottom
+  - if: '%%{{ and (ne page.Type "page") (ne page.Type "system") }}%%'
+    subtitle: Diseño, Fabricación e Instalación
+  - tags:
+    - type: type
+    - type: tax
+      tax: category

@@ -3,20 +3,20 @@ base: service
 icon: rectangle-vertical-history
 emoji: 📚
 params:
-- var: BOX_GALLERY
-- var: BOX_GALLERY_IMAGES
+- var: box_gallery
+- var: box_gallery_images
 - name: velarias
   label: Velarias
   hint: Activa la información con iconos por columnas de las velarias
   widget: boolean
 tpl:
   sections:
-  - file: productos/_header
-  - file: productos/informacion
-  - file: productos/informacion-velarias
-  - file: productos/portfolio
+  - file: productos-_header
+  - file: productos-informacion
+  - file: productos-informacion-velarias
+  - file: productos-portfolio
   - file: productos
-  - file: proyectos/destacados
+  - file: proyectos-destacados
 es:
   permalinks: productos
   slug: productos

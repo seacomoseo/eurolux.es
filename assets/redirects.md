@@ -19,3 +19,6 @@
 /toldos-parqueos/ /productos/proteccion-solar/toldos-parqueos/
 /toldos-retractiles/ /productos/proteccion-solar/toldos-retractiles/
 /toldos-velarias/ /productos/proteccion-solar/toldos-velarias/
+
+# 2025-08-15
+/difusores3.htm /

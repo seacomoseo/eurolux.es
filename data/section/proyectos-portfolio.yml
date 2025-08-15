@@ -1,0 +1,13 @@
+name: Proyectos ➡️ Portfolio
+if: images
+hanchor: Portfolio
+ph: true
+size: fluid
+params:
+- to: gallery
+- to: images
+gallery:
+  type: rows
+  cols: 2
+  color: white
+  button: hide

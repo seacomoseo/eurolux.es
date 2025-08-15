@@ -1,0 +1,57 @@
+title: Valores Globales
+menu:
+  image: base/logo.svg
+  items:
+  - link: /
+    label: Inicio
+    icon: house
+  - link: /#nosotros
+    label: Nosotros
+    icon: circle-info
+  # - link: /#equipo
+  #   label: Equipo
+  #   icon: people-group
+  - link: /#proyectos-destacados
+    label: Destacados
+    icon: crown
+  - link: /#productos
+    label: Productos
+    icon: rectangle-vertical-history
+    items:
+    - link: /productos/envolvente/
+      label: Envolvente
+      icon: window-frame
+    - link: /productos/proteccion-solar/
+      label: Protección Solar
+      icon: shutters
+    - link: /productos/interiorismo/
+      label: Interiorismo y Decoración
+      icon: house-heart
+  - link: /#nos-caracteriza
+    label: Nos Caracteriza
+    icon: star
+  # - link: /#taller
+  #   label: Taller
+  #   icon: screwdriver-wrench
+  - link: /#marcas
+    label: Marcas
+    icon: certificate
+  # - link: /#certificaciones
+  #   label: Certificaciones
+  #   icon: badge-check
+  # - link: /#aliados
+  #   label: Aliados
+  #   icon: handshake-simple
+  - link: /#resenas
+    label: Reseñas
+    icon: comment
+  - link: /#contacto
+    label: Contacto
+    icon: paper-plane
+    button: cta
+footer:
+  dots:
+  - link: https://g.page/r/CSUgV5RIKLWvEAg
+  - link: https://instagram.com/eurolux_srl
+  - link: https://www.linkedin.com/company/eurolux-srl/people/
+  - link: https://www.youtube.com/channel/UC-78JinGgWYkz6KG4T69qjw

@@ -5,16 +5,16 @@ tax_of:
   breadcrumbs: true
 tpl:
   sections:
-  - file: base/_header
-  - file: base/toc
-  - file: base/content
-  - file: base/address
-  - file: base/author
-  - file: base/social
-  - file: base/comments
-  - file: categorias/children
-  - file: base/share
-  - file: base/related
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: categorias-children
+  - file: base-share
+  - file: base-related
   list:
     color: white
     card: false

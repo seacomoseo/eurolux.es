@@ -1,0 +1,12 @@
+name: Proyectos ➡️ Proyectos Destacados
+title: Proyectos Destacados
+subtitle: Nuestra Pasión
+color: white
+icon: crown
+size: lg
+list:
+  type: project
+box:
+  cols: 4
+  slider: true
+  time: 5

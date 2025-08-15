@@ -1,0 +1,17 @@
+name: Categorias ➡️ Lista de Páginas
+node: nav
+if: children
+id: lists
+size: md
+pt: 0
+boxes:
+- if: taxonomy
+  params:
+  - from: filename
+    to: list.{{ type }}
+  list:
+    type: all
+- if: '%%{{ eq page.Slug "interiorismo" }}%%'
+  icon: triangle-person-digging
+  icon_type: top
+  title: En Construcción
