@@ -1,12 +1,11 @@
 ---
-title: Barandas
-seo:
-  title: Barandas en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Barandas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: envolvente/barandas
+title: Barandas
 img: /u/envolvente/barandas/1.jpg
-category: envolvente
 icon: window_closed
+seo:
+  title: Barandas de Aluminio y Vidrio en República Dominicana — Eurolux SRL
+  desc: Barandas de aluminio y vidrio europeo para terrazas, escaleras, piscinas y fachadas. Diseño, fabricación e instalación en toda República Dominicana. Presupuesto gratis.
 gallery:
   cols: 3
 imgs:
@@ -20,4 +19,5 @@ imgs:
 - /u/envolvente/barandas/8.jpg
 - /u/envolvente/barandas/9.jpg
 - /u/envolvente/barandas/10.jpg
+category: envolvente
 ---
