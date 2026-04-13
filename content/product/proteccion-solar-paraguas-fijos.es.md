@@ -1,12 +1,11 @@
 ---
-title: Paraguas Fijos
-seo:
-  title: Paraguas Fijos en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Paraguas Fijos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/paraguas-fijos
+title: Paraguas Fijos
 img: /u/proteccion-solar/paraguas-fijos/1.jpg
-category: proteccion-solar
 icon: blinds
+seo:
+  title: Paraguas Fijos de Aluminio en República Dominicana — Eurolux SRL
+  desc: Paraguas fijos de aluminio europeo para terrazas, jardines, piscinas y espacios exteriores. Protección solar duradera en toda República Dominicana. Presupuesto gratis.
 gallery:
   cols: 2
 imgs:
@@ -19,7 +18,9 @@ imgs:
 - /u/proteccion-solar/paraguas-fijos/8.jpg
 - /u/proteccion-solar/paraguas-fijos/9.jpg
 - /u/proteccion-solar/paraguas-fijos/4.jpg
+category: proteccion-solar
 ---
+
 Innovación en la arquitectura
 
 Modelos y diseños adaptables a tus proyectos, no más sol y lluvia
