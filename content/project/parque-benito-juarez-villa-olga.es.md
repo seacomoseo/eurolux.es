@@ -1,6 +1,6 @@
 ---
 slug: parque-benito-juarez-villa-olga-
-title: Parque Benito Juárez Tenso Estructura
+title: Parque Benito Juárez
 img: /u/img_6148.webp
 imgs:
 - /u/copy_09459f71-753b-42c7-8f16-808b208609a5-1.mov
