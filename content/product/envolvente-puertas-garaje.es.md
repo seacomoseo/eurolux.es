@@ -9,6 +9,6 @@ seo:
 gallery:
   cols: 1
 imgs:
-- /u/envolvente/puertas-garaje/1.jpg
+- /u/img_9155.MOV
 category: envolvente
 ---
