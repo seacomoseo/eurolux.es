@@ -1,12 +1,11 @@
 ---
-title: Louvers
-seo:
-  title: Louvers en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Louvers ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: envolvente/louvers
+title: Louvers
 img: /u/envolvente/louvers/1.jpg
-category: envolvente
 icon: window_closed
+seo:
+  title: Louvers de Aluminio en República Dominicana — Eurolux SRL
+  desc: Louvers de aluminio europeo para fachadas, ventilación y protección solar. Diseño, fabricación e instalación en toda República Dominicana. Presupuesto gratis.
 gallery:
   cols: 2
 imgs:
@@ -17,4 +16,5 @@ imgs:
 - /u/envolvente/louvers/5.jpg
 - /u/envolvente/louvers/6.jpg
 - /u/envolvente/louvers/7.jpg
+category: envolvente
 ---
