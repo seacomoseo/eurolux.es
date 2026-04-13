@@ -9,20 +9,20 @@ boxes:
     cols: 2
     gap: 4
     gap_vs: 2
-    ratio: 1/1
     line: y
+    ratio: 1/1
   boxes:
-  - img: /u/nosotros/juan-carlos-tomas-gonzalez.jpg
-    title: Juan Carlos <br> Tomás González
+  - title: Juan Carlos <br> Tomás González
     sub: CEO (Director Ejecutivo)
-    url: https://www.linkedin.com/in/juan-carlos-tomas-a8437232
+    img: /u/dsc06485.webp
     pin: brand:linkedin
+    url: https://www.linkedin.com/in/juan-carlos-tomas-a8437232
     label: Linkedin
     lock: y
-  - img: /u/nosotros/angela-caba-jimenez.jpg
-    title: Angela <br> Caba Jiménez
+  - title: Angela <br> Caba Jiménez
     sub: CAO (Director Administrativo)
-    url: https://www.linkedin.com/in/angela-caba-jim%C3%A9nez-22283017b/
+    img: /u/dsc06521.webp
     pin: brand:linkedin
+    url: https://www.linkedin.com/in/angela-caba-jim%C3%A9nez-22283017b/
     label: Linkedin
     lock: y
