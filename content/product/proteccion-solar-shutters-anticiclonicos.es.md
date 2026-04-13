@@ -1,12 +1,11 @@
 ---
-title: Shutters Anticiclónicos
-seo:
-  title: Shutters Anticiclónicos en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Shutters Anticiclónicos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/shutters-anticiclonicos
+title: Shutters Anticiclónicos
 img: /u/proteccion-solar/shutters-anticiclonicos/1.jpg
-category: proteccion-solar
 icon: blinds
+seo:
+  title: Shutters Anticiclónicos de Aluminio en República Dominicana — Eurolux SRL
+  desc: Shutters anticiclónicos de aluminio europeo para protección contra huracanes y vientos. Fabricación e instalación en toda República Dominicana. Presupuesto gratis.
 gallery:
   cols: 2
 imgs:
@@ -18,7 +17,11 @@ imgs:
 - /u/proteccion-solar/shutters-anticiclonicos/7.jpg
 - /u/proteccion-solar/shutters-anticiclonicos/8.jpg
 - /u/proteccion-solar/shutters-anticiclonicos/2.jpg
+- /u/img_3893.MOV
+- /u/img_3897.MOV
+category: proteccion-solar
 ---
+
 Cuando se habla de seguridad (anti robo) y protección de fenómenos climáticos, el producto ideal los shutters.
 
 Fabricadas en aluminio extruido (lama GV 60) y cuentan con tapones de seguridad que evitan que el paño de lamas se salga de las guías en vientos extremos, con una resistencia a los vendavales de hasta 250 km/h.
