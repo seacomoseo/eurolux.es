@@ -1,30 +1,28 @@
 ---
-title: Palillería
-seo:
-  title: Palillería en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Palillería ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/palilleria
+title: Palillería
 img: /u/proteccion-solar/palilleria/1.jpg
-category: proteccion-solar
 icon: blinds
+seo:
+  title: Palillería y Pérgolas de Aluminio en República Dominicana — Eurolux SRL
+  desc: Palillería y pergolados de aluminio europeo para terrazas, piscinas y exteriores. Protección solar con diseño elegante en toda República Dominicana. Presupuesto gratis.
 gallery:
   cols: 2
 imgs:
 - /u/proteccion-solar/palilleria/1.jpg
-- /u/proteccion-solar/palilleria/2.jpg
-- /u/proteccion-solar/palilleria/3.jpg
-- /u/proteccion-solar/palilleria/4.jpg
-- /u/proteccion-solar/palilleria/5.jpg
-- /u/proteccion-solar/palilleria/6.jpg
-- /u/proteccion-solar/palilleria/7.jpg
+- /u/702d7cf8-b4c0-4c48-b614-23fe4362ad43.webp
 - /u/proteccion-solar/palilleria/8.jpg
-- /u/proteccion-solar/palilleria/9.jpg
-- /u/proteccion-solar/palilleria/10.jpg
+- /u/img_9177.MOV
+- /u/image00007.webp
 - /u/proteccion-solar/palilleria/11.jpg
-- /u/proteccion-solar/palilleria/12.jpg
-- /u/proteccion-solar/palilleria/13.jpg
-- /u/proteccion-solar/palilleria/14.jpg
+- /u/img_4863.webp
+- /u/fd08918e-8147-4460-81f8-71cbc68a13c4.webp
+- /u/_mg_3730.webp
+- /u/img_5994.webp
+- /u/img_5997.webp
+category: proteccion-solar
 ---
+
 ¿Problemas de sol y lluvia?
 
 Este es el producto perfecto para cubrir tus espacios y tener la privacidad de tanto deseas, con la ventaja de instalar en cualquier tipo de zona espaciosa o más reducida, ¡siempre al aire libre! Retráctil, accionamiento de tu preferencia, manual o motorizado.
