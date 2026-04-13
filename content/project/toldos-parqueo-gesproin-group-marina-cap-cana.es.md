@@ -1,6 +1,6 @@
 ---
 slug: toldos-parqueo-gesproin-group-marina-cap-cana
-title: MARINA GARDEN 1
+title: Marina Garden 1
 img: /u/_mg_3742.webp
 imgs:
 - /u/_mg_3742.webp
