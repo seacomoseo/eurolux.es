@@ -1,6 +1,6 @@
 ---
 slug: villa-lujo-caleton-cap-cana
-title: Villa de Lujo
+title: Villa Bonnelly
 img: /u/dji_0092.webp
 imgs:
 - /u/dsc07496.webp
