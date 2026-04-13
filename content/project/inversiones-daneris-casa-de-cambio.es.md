@@ -1,13 +1,14 @@
 ---
 slug: inversiones-daneris-casa-de-cambio
 title: Casa de Cambio Inversiones Daneris
-img: /u/img_5115.MOV
+img: /u/img_5114-1.MOV
+seo:
+  title: Casa de Cambio Inversiones Daneris | Carpintería de Aluminio Eurolux
+  desc: Proyecto de cerramiento integral para establecimiento financiero con sistema abatible EUROLUX S46, vidrio de seguridad con control solar y protección antibala. Materiales europeos certificados.
 imgs:
-- /u/casa-de-cambio-alta-calidad.mp4
 - /u/img_5114-1.MOV
-- /u/casa-de-cambio-area-servicio-vidrios-antibala.webp
 - /u/casa-de-cambio-puerta-entrada.webp
-- /u/puerta-entrada-casa-cambio.webp
+- /u/casa-de-cambio-area-servicio-vidrios-antibala.webp
 - /u/carpinteria-en-aluminio-casa-de-cambio.webp
 ---
 
