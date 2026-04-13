@@ -1,6 +1,6 @@
 ---
 slug: sistema-clima-120-gesproin-marina-garden
-title: Sistema Clima 120, Marina Garden 1
+title: Marina Garden 1
 img: /u/_mg_3730.webp
 imgs:
 - /u/_mg_3726.webp
