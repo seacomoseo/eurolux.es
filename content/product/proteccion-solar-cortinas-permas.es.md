@@ -1,12 +1,11 @@
 ---
-title: Cortinas Permas
-seo:
-  title: Cortinas Permas en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Cortinas Permas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/cortinas-permas
+title: Cortinas Permas
 img: /u/proteccion-solar/cortinas-permas/1.jpg
-category: proteccion-solar
 icon: blinds
+seo:
+  title: Cortinas Permas en República Dominicana — Eurolux SRL
+  desc: Cortinas Permas de aluminio europeo para exteriores. Protección solar, lluvia y viento para terrazas, hoteles, restaurantes,  y residencias en toda República Dominicana. Presupuesto gratis.
 gallery:
   cols: 2
 imgs:
@@ -19,7 +18,9 @@ imgs:
 - /u/proteccion-solar/cortinas-permas/29.jpg
 - /u/proteccion-solar/cortinas-permas/30.jpg
 - /u/proteccion-solar/cortinas-permas/12.jpg
+category: proteccion-solar
 ---
+
 Privacidad por dentro, visibilidad hacia afuera, la combinación perfecta.
 
 Protege tus áreas de la lluvia moderada y disminuye el resplandor del sol sin perder claridad y privacidad.
