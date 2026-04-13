@@ -4,8 +4,8 @@ title: Inicio
 img: /u/base/poster.png
 sum: Diseño, fabricación e instalación de todo tipo de envolvente y fachada ligera para su proyecto en República Dominicana; aluminio y vidrio, toldos y palilleras, shutters…
 seo:
-  title: 'Eurolux SRL: Fachadas y Envolventes en República Dominicana'
-  desc: llll➤ Diseño, fabricación e instalación de todo tipo de envolvente y fachada ligera para su proyecto ✅ aluminio y vidrio, toldos y palilleras, shutters…
+  title: Eurolux | Ventanas, Fachadas, Toldos y Pérgolas en RD
+  desc: Ventanas aluminio europeo, fachadas, toldos retráctiles, velarías, pérgolas, shutters, palillería y tensoestructuras en República Dominicana. Presupuesto gratis.
 tpl:
   sections:
   - file: _header
@@ -27,10 +27,8 @@ org:
   names:
   - Eurolux SRL
   - EUROLUX SRL
-  desc: null
   legal: Eurolux SRL
   nif: 132-59751-6
-  mail: null
   logo: /u/base/poster.png
   imgs:
   - /u/nosotros/disfruta-diseno.jpg
@@ -66,5 +64,4 @@ org:
     - open: 8:00
       close: 19:00
   prices: €€
-  services: []
 ---
