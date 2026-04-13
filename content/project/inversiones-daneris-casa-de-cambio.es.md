@@ -1,7 +1,7 @@
 ---
 slug: inversiones-daneris-casa-de-cambio
 title: Casa de Cambio Inversiones Daneris
-img: /u/img_5114-1.MOV
+img: /u/img_5115.MOV
 imgs:
 - /u/casa-de-cambio-alta-calidad.mp4
 - /u/img_5114-1.MOV
