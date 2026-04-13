@@ -1,19 +1,18 @@
 ---
 title: Puertas y Ventanas Abatibles
-seo: Puertas y Ventanas Abatibles Rep. Dominicana - Eurolux SRL
+seo:
+  title: Puertas y Ventanas Abatibles Rep. Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Puertas y Ventanas Abatibles ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: envolvente/puertas-ventanas-abatibles
-description: llll➤ Diseño, fabricación e instalación de Puertas y Ventanas Abatibles ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: envolvente/puertas-ventanas-abatibles/1.jpg
-draft: false
-noindex: false
+img: /u/envolvente/puertas-ventanas-abatibles/1.jpg
 category: envolvente
-icon: window-frame
+icon: window_closed
 gallery:
   cols: 2
-images:
-- envolvente/puertas-ventanas-abatibles/1.jpg
-- envolvente/puertas-ventanas-abatibles/2.jpg
-- envolvente/puertas-ventanas-abatibles/3.jpg
-- envolvente/puertas-ventanas-abatibles/4.jpg
-- envolvente/puertas-ventanas-abatibles/5.jpg
+imgs:
+- /u/envolvente/puertas-ventanas-abatibles/1.jpg
+- /u/envolvente/puertas-ventanas-abatibles/2.jpg
+- /u/envolvente/puertas-ventanas-abatibles/3.jpg
+- /u/envolvente/puertas-ventanas-abatibles/4.jpg
+- /u/envolvente/puertas-ventanas-abatibles/5.jpg
 ---

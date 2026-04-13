@@ -1,24 +1,23 @@
 ---
 title: Shutters Anticiclónicos
-seo: Shutters Anticiclónicos en República Dominicana - Eurolux SRL
+seo:
+  title: Shutters Anticiclónicos en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Shutters Anticiclónicos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/shutters-anticiclonicos
-description: llll➤ Diseño, fabricación e instalación de Shutters Anticiclónicos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: proteccion-solar/shutters-anticiclonicos/1.jpg
-draft: false
-noindex: false
+img: /u/proteccion-solar/shutters-anticiclonicos/1.jpg
 category: proteccion-solar
-icon: shutters
+icon: blinds
 gallery:
   cols: 2
-images:
-- proteccion-solar/shutters-anticiclonicos/1.jpg
-- proteccion-solar/shutters-anticiclonicos/3.jpg
-- proteccion-solar/shutters-anticiclonicos/4.jpg
-- proteccion-solar/shutters-anticiclonicos/5.jpg
-- proteccion-solar/shutters-anticiclonicos/6.jpg
-- proteccion-solar/shutters-anticiclonicos/7.jpg
-- proteccion-solar/shutters-anticiclonicos/8.jpg
-- proteccion-solar/shutters-anticiclonicos/2.jpg
+imgs:
+- /u/proteccion-solar/shutters-anticiclonicos/1.jpg
+- /u/proteccion-solar/shutters-anticiclonicos/3.jpg
+- /u/proteccion-solar/shutters-anticiclonicos/4.jpg
+- /u/proteccion-solar/shutters-anticiclonicos/5.jpg
+- /u/proteccion-solar/shutters-anticiclonicos/6.jpg
+- /u/proteccion-solar/shutters-anticiclonicos/7.jpg
+- /u/proteccion-solar/shutters-anticiclonicos/8.jpg
+- /u/proteccion-solar/shutters-anticiclonicos/2.jpg
 ---
 Cuando se habla de seguridad (anti robo) y protección de fenómenos climáticos, el producto ideal los shutters.
 

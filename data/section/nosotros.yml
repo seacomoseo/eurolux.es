@@ -1,47 +1,48 @@
 name: Nosotros
-title: Nosotros
-subtitle: Quienes Somos
 color: white
-icon: circle-info
-box:
-  cols: 2
-  gap_vs: 0
-  pd: 2
-  pd_vs: 1
-  align_y: strech
-  align: left
 boxes:
-- order: 1
-  bi: nosotros/equipo.jpg
-- order: 2
-  md: |
-    En Eurolux SRL, somos una empresa joven, respaldada por un equipo de profesionales altamente cualificados con más de 20 años de experiencia en el sector.
+- title: Nosotros
+  sub: Quienes Somos
+  icon: info
+  box:
+    cols: 2
+    gap_vs: 0
+    pd: 2
+    pd_vs: 1
+    align_y: strech
+    align: left
+  boxes:
+  - order: 1
+    bi: /u/nosotros/equipo.jpg
+  - order: 2
+    md: |
+      En Eurolux SRL, somos una empresa joven, respaldada por un equipo de profesionales altamente cualificados con más de 20 años de experiencia en el sector.
 
-    Nos especializamos en el diseño, fabricación e instalación de soluciones innovadoras en carpintería de aluminio, fachadas ligeras y sistemas de protección solar.
+      Nos especializamos en el diseño, fabricación e instalación de soluciones innovadoras en carpintería de aluminio, fachadas ligeras y sistemas de protección solar.
 
-    Trabajamos con materiales 100% europeos, garantizando productos de la más alta calidad y durabilidad para nuestros clientes.
+      Trabajamos con materiales 100% europeos, garantizando productos de la más alta calidad y durabilidad para nuestros clientes.
 
-    Nuestra capacidad de producción se potencia con nuestro taller de fabricación ubicado en España, lo que nos permite asegurar la excelencia en cada proyecto.
-  align_y: center
-- order: 4
-  bi: envolvente/ventanas-puertas-correderas/6.jpg
-- order: 3
-  md: |
-    Nuestra propuesta de valor se basa en la colaboración estratégica con nuestros clientes, ofreciendo soluciones personalizadas que responden a las exigencias técnicas y estéticas de cada proyecto, tanto en construcción nueva como en rehabilitación.
+      Nuestra capacidad de producción se potencia con nuestro taller de fabricación ubicado en España, lo que nos permite asegurar la excelencia en cada proyecto.
+    align_y: center
+  - order: 4
+    bi: /u/envolvente/ventanas-puertas-correderas/6.jpg
+  - order: 3
+    md: |
+      Nuestra propuesta de valor se basa en la colaboración estratégica con nuestros clientes, ofreciendo soluciones personalizadas que responden a las exigencias técnicas y estéticas de cada proyecto, tanto en construcción nueva como en rehabilitación.
 
-    Desde la concepción del diseño hasta la instalación final, nos enfocamos en brindar eficiencia, durabilidad y rendimiento energético, garantizando productos que cumplen con los más altos estándares internacionales.
-  align_vl: right
-  align_y: center
-- order: 5
-  bi: eurolux.mp4
-  rate: 4/3
-- order: 6
-  md: |
-    La calidad, la innovación y la experiencia son los pilares que definen nuestra actividad en Eurolux SRL.
+      Desde la concepción del diseño hasta la instalación final, nos enfocamos en brindar eficiencia, durabilidad y rendimiento energético, garantizando productos que cumplen con los más altos estándares internacionales.
+    align_vl: right
+    align_y: center
+  - order: 5
+    bi: /u/eurolux.mp4
+    rate: 4/3
+  - order: 6
+    md: |
+      La calidad, la innovación y la experiencia son los pilares que definen nuestra actividad en Eurolux SRL.
 
-    Estamos comprometidos en superar las expectativas de nuestros clientes, ofreciendo soluciones sostenibles que aseguren un rendimiento óptimo y duradero en cada proyecto.
+      Estamos comprometidos en superar las expectativas de nuestros clientes, ofreciendo soluciones sostenibles que aseguren un rendimiento óptimo y duradero en cada proyecto.
 
-    Porque en Eurolux SRL, construimos más que espacios, construimos confianza y calidad que perduran en el tiempo.
+      Porque en Eurolux SRL, construimos más que espacios, construimos confianza y calidad que perduran en el tiempo.
 
-    [[:crown: Proyectos Destacados]](#proyectos-destacados "[swap]")
-  align_y: center
+      [[::crown:: Proyectos Destacados]](#proyectos-destacados "[swap]")
+    align_y: center

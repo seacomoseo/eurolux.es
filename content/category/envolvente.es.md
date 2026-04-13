@@ -1,13 +1,11 @@
 ---
 slug: envolvente
 title: Envolvente
-summary: null # string
-# image: envolvente/barandas/1.jpg
-icon: window-frame
+sum: null # string
+# img: /u/envolvente/barandas/1.jpg
+icon: window_closed
 weight: 1
-toc: false
-draft: false
-noindex: false
-seo: Envolventes en República Dominicana - Eurolux SRL
-description: llll➤ Diseño, fabricación e instalación de todo tipo de Envolvente ✅ y fachada ligera para su proyecto.
+seo:
+  title: Envolventes en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de todo tipo de Envolvente ✅ y fachada ligera para su proyecto.
 ---

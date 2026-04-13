@@ -1,30 +1,29 @@
 ---
 title: Palillería
-seo: Palillería en República Dominicana - Eurolux SRL
+seo:
+  title: Palillería en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Palillería ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/palilleria
-description: llll➤ Diseño, fabricación e instalación de Palillería ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: proteccion-solar/palilleria/1.jpg
-draft: false
-noindex: false
+img: /u/proteccion-solar/palilleria/1.jpg
 category: proteccion-solar
-icon: shutters
+icon: blinds
 gallery:
   cols: 2
-images:
-- proteccion-solar/palilleria/1.jpg
-- proteccion-solar/palilleria/2.jpg
-- proteccion-solar/palilleria/3.jpg
-- proteccion-solar/palilleria/4.jpg
-- proteccion-solar/palilleria/5.jpg
-- proteccion-solar/palilleria/6.jpg
-- proteccion-solar/palilleria/7.jpg
-- proteccion-solar/palilleria/8.jpg
-- proteccion-solar/palilleria/9.jpg
-- proteccion-solar/palilleria/10.jpg
-- proteccion-solar/palilleria/11.jpg
-- proteccion-solar/palilleria/12.jpg
-- proteccion-solar/palilleria/13.jpg
-- proteccion-solar/palilleria/14.jpg
+imgs:
+- /u/proteccion-solar/palilleria/1.jpg
+- /u/proteccion-solar/palilleria/2.jpg
+- /u/proteccion-solar/palilleria/3.jpg
+- /u/proteccion-solar/palilleria/4.jpg
+- /u/proteccion-solar/palilleria/5.jpg
+- /u/proteccion-solar/palilleria/6.jpg
+- /u/proteccion-solar/palilleria/7.jpg
+- /u/proteccion-solar/palilleria/8.jpg
+- /u/proteccion-solar/palilleria/9.jpg
+- /u/proteccion-solar/palilleria/10.jpg
+- /u/proteccion-solar/palilleria/11.jpg
+- /u/proteccion-solar/palilleria/12.jpg
+- /u/proteccion-solar/palilleria/13.jpg
+- /u/proteccion-solar/palilleria/14.jpg
 ---
 ¿Problemas de sol y lluvia?
 

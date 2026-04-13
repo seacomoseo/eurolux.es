@@ -1,25 +1,24 @@
 ---
 title: Paraguas Fijos
-seo: Paraguas Fijos en República Dominicana - Eurolux SRL
+seo:
+  title: Paraguas Fijos en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Paraguas Fijos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/paraguas-fijos
-description: llll➤ Diseño, fabricación e instalación de Paraguas Fijos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: proteccion-solar/paraguas-fijos/1.jpg
-draft: false
-noindex: false
+img: /u/proteccion-solar/paraguas-fijos/1.jpg
 category: proteccion-solar
-icon: shutters
+icon: blinds
 gallery:
   cols: 2
-images:
-- proteccion-solar/paraguas-fijos/1.jpg
-- proteccion-solar/paraguas-fijos/2.jpg
-- proteccion-solar/paraguas-fijos/3.jpg
-- proteccion-solar/paraguas-fijos/5.jpg
-- proteccion-solar/paraguas-fijos/6.jpg
-- proteccion-solar/paraguas-fijos/7.jpg
-- proteccion-solar/paraguas-fijos/8.jpg
-- proteccion-solar/paraguas-fijos/9.jpg
-- proteccion-solar/paraguas-fijos/4.jpg
+imgs:
+- /u/proteccion-solar/paraguas-fijos/1.jpg
+- /u/proteccion-solar/paraguas-fijos/2.jpg
+- /u/proteccion-solar/paraguas-fijos/3.jpg
+- /u/proteccion-solar/paraguas-fijos/5.jpg
+- /u/proteccion-solar/paraguas-fijos/6.jpg
+- /u/proteccion-solar/paraguas-fijos/7.jpg
+- /u/proteccion-solar/paraguas-fijos/8.jpg
+- /u/proteccion-solar/paraguas-fijos/9.jpg
+- /u/proteccion-solar/paraguas-fijos/4.jpg
 ---
 Innovación en la arquitectura
 

@@ -1,14 +1,8 @@
 title: Productos
+weight: 1
 base: service
-icon: rectangle-vertical-history
+icon: web_stories
 emoji: 📚
-params:
-- var: box_gallery
-- var: box_gallery_images
-- name: velarias
-  label: Velarias
-  hint: Activa la información con iconos por columnas de las velarias
-  widget: boolean
 tpl:
   sections:
   - file: productos-_header
@@ -17,8 +11,3 @@ tpl:
   - file: productos-portfolio
   - file: productos
   - file: proyectos-destacados
-es:
-  permalinks: productos
-  slug: productos
-  singular: Producto
-  title: Productos

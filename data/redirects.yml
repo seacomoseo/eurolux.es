@@ -1,0 +1,24 @@
+- { from: /caf/ , to: / }
+- { from: /parking.php , to: / }
+
+# 2024-10-25
+- { from: /barandas/ , to: /productos/envolvente/barandas/ }
+- { from: /louvers/ , to: /productos/envolvente/louvers/ }
+- { from: /mamparas-bano/ , to: /productos/envolvente/mamparas-bano/ }
+- { from: /puertas-garaje/ , to: /productos/envolvente/puertas-garaje/ }
+- { from: /puertas-ventanas-abatibles/ , to: /productos/envolvente/puertas-ventanas-abatibles/ }
+- { from: /techos-vidrio/ , to: /productos/envolvente/techos-vidrio/ }
+- { from: /ventanas-oscilo-batientes/ , to: /productos/envolvente/ventanas-oscilo-batientes/ }
+- { from: /ventanas-puertas-correderas/ , to: /productos/envolvente/ventanas-puertas-correderas/ }
+- { from: /vidrios-control-solar/ , to: /productos/envolvente/vidrios-control-solar/ }
+- { from: /cortinas-permas/ , to: /productos/proteccion-solar/cortinas-permas/ }
+- { from: /palilleria/ , to: /productos/proteccion-solar/palilleria/ }
+- { from: /paraguas-fijos/ , to: /productos/proteccion-solar/paraguas-fijos/ }
+- { from: /shutters-anticiclonicos/ , to: /productos/proteccion-solar/shutters-anticiclonicos/ }
+- { from: /toldos-fijos/ , to: /productos/proteccion-solar/toldos-fijos/ }
+- { from: /toldos-parqueos/ , to: /productos/proteccion-solar/toldos-parqueos/ }
+- { from: /toldos-retractiles/ , to: /productos/proteccion-solar/toldos-retractiles/ }
+- { from: /toldos-velarias/ , to: /productos/proteccion-solar/toldos-velarias/ }
+
+# 2025-08-15
+- { from: /difusores3.htm , to: / }

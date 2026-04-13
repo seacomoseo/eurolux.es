@@ -1,28 +1,27 @@
 ---
 title: Toldos Parqueos
-seo: Toldos Parqueos en República Dominicana - Eurolux SRL
+seo:
+  title: Toldos Parqueos en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Toldos Parqueos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/toldos-parqueos
-description: llll➤ Diseño, fabricación e instalación de Toldos Parqueos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: proteccion-solar/toldos-parqueos/1.jpg
-draft: false
-noindex: false
+img: /u/proteccion-solar/toldos-parqueos/1.jpg
 category: proteccion-solar
-icon: shutters
+icon: blinds
 gallery:
   cols: 2
-images:
-- proteccion-solar/toldos-parqueos/1.jpg
-- proteccion-solar/toldos-parqueos/2.jpg
-- proteccion-solar/toldos-parqueos/3.jpg
-- proteccion-solar/toldos-parqueos/4.jpg
-- proteccion-solar/toldos-parqueos/6.jpg
-- proteccion-solar/toldos-parqueos/7.jpg
-- proteccion-solar/toldos-parqueos/8.jpg
-- proteccion-solar/toldos-parqueos/9.jpg
-- proteccion-solar/toldos-parqueos/10.jpg
-- proteccion-solar/toldos-parqueos/11.jpg
-- proteccion-solar/toldos-parqueos/5.jpg
-- proteccion-solar/toldos-parqueos/12.jpg
+imgs:
+- /u/proteccion-solar/toldos-parqueos/1.jpg
+- /u/proteccion-solar/toldos-parqueos/2.jpg
+- /u/proteccion-solar/toldos-parqueos/3.jpg
+- /u/proteccion-solar/toldos-parqueos/4.jpg
+- /u/proteccion-solar/toldos-parqueos/6.jpg
+- /u/proteccion-solar/toldos-parqueos/7.jpg
+- /u/proteccion-solar/toldos-parqueos/8.jpg
+- /u/proteccion-solar/toldos-parqueos/9.jpg
+- /u/proteccion-solar/toldos-parqueos/10.jpg
+- /u/proteccion-solar/toldos-parqueos/11.jpg
+- /u/proteccion-solar/toldos-parqueos/5.jpg
+- /u/proteccion-solar/toldos-parqueos/12.jpg
 ---
 Protege tus vehículos de las inclemencias del clima.
 

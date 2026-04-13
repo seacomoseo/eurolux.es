@@ -1,12 +1,7 @@
-langs:
-- lang: es
-  title: Eurolux SRL
-  description: Diseño, fabricación e instalación de todo tipo de envolvente y fachada ligera para su proyecto en República Dominicana; aluminio y vidrio, toldos y palilleras, shutters…
-  google_analytics: G-67Y7HLXS0T
-  google_site_verification: 78BQhW08ZELYsShMr9plh08pb5_czVaMlPrO-leNIqc
-  google_file_verification: google7467d923cbb3eb4c.html
-  time_zone: America/Santo_Domingo
-  currency: DOP
-  phone_code: 1
-others:
-  show: true
+ga4: G-67Y7HLXS0T
+g_site_verify: 78BQhW08ZELYsShMr9plh08pb5_czVaMlPrO-leNIqc
+g_file_verify: google7467d923cbb3eb4c.html
+phone_code: 1
+time_zone: America/Santo_Domingo
+currency: DOP
+show: y

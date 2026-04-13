@@ -1,33 +1,32 @@
 ---
 title: Toldos Velarías
-seo: Toldos Velarías en República Dominicana - Eurolux SRL
+seo:
+  title: Toldos Velarías en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Toldos Velarías ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/toldos-velarias
-description: llll➤ Diseño, fabricación e instalación de Toldos Velarías ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: proteccion-solar/toldos-velarias/1.jpg
-draft: false
-noindex: false
+img: /u/proteccion-solar/toldos-velarias/1.jpg
 category: proteccion-solar
-icon: shutters
+icon: blinds
 gallery:
   cols: 2
-images:
-- proteccion-solar/toldos-velarias/1.jpg
-- proteccion-solar/toldos-velarias/2.jpg
-- proteccion-solar/toldos-velarias/3.jpg
-- proteccion-solar/toldos-velarias/4.jpg
-- proteccion-solar/toldos-velarias/5.jpg
-- proteccion-solar/toldos-velarias/6.jpg
-- proteccion-solar/toldos-velarias/7.jpg
-- proteccion-solar/toldos-velarias/8.jpg
-- proteccion-solar/toldos-velarias/9.jpg
-- proteccion-solar/toldos-velarias/10.jpg
-- proteccion-solar/toldos-velarias/11.jpg
-- proteccion-solar/toldos-velarias/12.jpg
-- proteccion-solar/toldos-velarias/13.jpg
-- proteccion-solar/toldos-velarias/14.jpg
-- proteccion-solar/toldos-velarias/15.jpg
-- proteccion-solar/toldos-velarias/17.jpg
-- proteccion-solar/toldos-velarias/16.jpg
-velarias: true
+imgs:
+- /u/proteccion-solar/toldos-velarias/1.jpg
+- /u/proteccion-solar/toldos-velarias/2.jpg
+- /u/proteccion-solar/toldos-velarias/3.jpg
+- /u/proteccion-solar/toldos-velarias/4.jpg
+- /u/proteccion-solar/toldos-velarias/5.jpg
+- /u/proteccion-solar/toldos-velarias/6.jpg
+- /u/proteccion-solar/toldos-velarias/7.jpg
+- /u/proteccion-solar/toldos-velarias/8.jpg
+- /u/proteccion-solar/toldos-velarias/9.jpg
+- /u/proteccion-solar/toldos-velarias/10.jpg
+- /u/proteccion-solar/toldos-velarias/11.jpg
+- /u/proteccion-solar/toldos-velarias/12.jpg
+- /u/proteccion-solar/toldos-velarias/13.jpg
+- /u/proteccion-solar/toldos-velarias/14.jpg
+- /u/proteccion-solar/toldos-velarias/15.jpg
+- /u/proteccion-solar/toldos-velarias/17.jpg
+- /u/proteccion-solar/toldos-velarias/16.jpg
+velarias: y
 ---
 Permiten una gran libertad arquitectónica y una iluminación natural en el interior de los espacios a cubrir, ligera y tensada la cual integra diversos diseño y formas:

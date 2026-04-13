@@ -1,38 +1,39 @@
 title: Todas
 tpl:
-  toc: false
+  toc: n
   bg:
     color: light
   menu:
-    logo: false
+    logo: n
     logo_align: center
-    transparent: true
+    clear: y
     size: xl
     sticky: auto
     color: white
   callnow: auto
   section:
   - size: sm
-    caps: true
-    parallax: fix
+    scroll: fix
+    box:
+      caps: y
   sections:
-  - file: base/_header
-  - file: base/toc
-  - file: base/content
-  - file: base/address
-  - file: base/author
-  - file: base/social
-  - file: base/comments
-  - file: base/children
-  - file: base/share
-  - file: base/related
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-related
   list:
     cols: 3
-    card: true
+    card: y
     icon: hide
     hs: 3
     md: hide
-    pin: plus
-    button: cta
-  related:
-    slider: true
+    pin: add
+    btn: cta
+  rel:
+    slider: y

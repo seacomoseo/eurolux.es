@@ -1,20 +1,19 @@
 ---
 title: Residencia Jarabacoa
 slug: residencia-jarabacoa
-image: proyectos/residencia-jarabacoa/2024-10-21-23-37-25.jpg
-draft: false
-noindex: false
-seo: 'Proyecto Destacado: Residencia Jarabacoa - Eurolux SRL'
-description: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Residencia Jarabacoa.
+img: /u/proyectos/residencia-jarabacoa/2024-10-21-23-37-25.jpg
+seo:
+  title: 'Proyecto Destacado: Residencia Jarabacoa - Eurolux SRL'
+  desc: llll➤ Diseño, fabricación e instalación de envolvente y fachada ligera ✅ para el proyecto Residencia Jarabacoa.
 gallery:
   cols: 2
-images:
-# - proyectos/residencia-jarabacoa/2024-10-21-23-37-21.jpg
-- proyectos/residencia-jarabacoa/2024-10-21-23-37-25.jpg
-- proyectos/residencia-jarabacoa/2024-10-21-23-37-29.jpg
-- proyectos/residencia-jarabacoa/2024-10-21-23-37-33.jpg
-# - proyectos/residencia-jarabacoa/2024-10-21-23-37-39.jpg
-- proyectos/residencia-jarabacoa/2024-10-21-23-37-58.jpg
+imgs:
+# - /u/proyectos/residencia-jarabacoa/2024-10-21-23-37-21.jpg
+- /u/proyectos/residencia-jarabacoa/2024-10-21-23-37-25.jpg
+- /u/proyectos/residencia-jarabacoa/2024-10-21-23-37-29.jpg
+- /u/proyectos/residencia-jarabacoa/2024-10-21-23-37-33.jpg
+# - /u/proyectos/residencia-jarabacoa/2024-10-21-23-37-39.jpg
+- /u/proyectos/residencia-jarabacoa/2024-10-21-23-37-58.jpg
 ---
-- :house: Residencia privada en Jarabacoa
-- :shutters: Toldos Palillería Motorizados
+- ::home:: Residencia privada en Jarabacoa
+- ::blinds:: Toldos Palillería Motorizados

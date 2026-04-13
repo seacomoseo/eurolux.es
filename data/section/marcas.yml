@@ -1,38 +1,38 @@
 name: Marcas
-title: Marcas
-subtitle: En las que confiamos
 color: white
-icon: certificate
-md: |
-  Solo trabajamos e importamos las más prestigiosas marcas europeas para que la calidad y durabilidad en nuestros trabajos hablen por nosotros
-align: center
-box:
-  cols: 5
-  cols_vs: 2
-  gap: 2
-  gap_vs: 1.5
-  gap_ny: 1
-  gray: true
-  ratio: 18/6
-  button: hide
 boxes:
-- image: marcas/saheco.svg
-  link: https://www.saheco.com/
-- image: marcas/satto.svg
-  link: https://satto.co/
-- image: marcas/recasens.svg
-  link: https://recasens.com/
-- image: marcas/vertilux.svg
-  link: https://es.vertilux.com/
-- image: marcas/cortizo.svg
-  link: https://www.cortizo.com/
-- image: marcas/mediterraneo-aluminio.svg
-  link: https://mediterraneoaluminio.com/
-- image: marcas/llaza.svg
-  link: https://www.llaza.com/
-- image: marcas/alugom.svg
-  link: https://alugom.es/
-- image: marcas/gaviota.svg
-  link: https://www.gaviotagroup.com/
-- image: marcas/strugal.svg
-  link: https://www.strugal.com/
+- title: Marcas
+  sub: En las que confiamos
+  icon: verified
+  md: |
+    Solo trabajamos e importamos las más prestigiosas marcas europeas para que la calidad y durabilidad en nuestros trabajos hablen por nosotros
+  align: center
+  box:
+    cols: 5
+    cols_vs: 2
+    gap: 2
+    gap_vs: 1.5
+    gray: y
+    ratio: 18/6
+    btn: hide
+  boxes:
+  - img: /u/marcas/saheco.svg
+    url: https://www.saheco.com/
+  - img: /u/marcas/satto.svg
+    url: https://satto.co/
+  - img: /u/marcas/recasens.svg
+    url: https://recasens.com/
+  - img: /u/marcas/vertilux.svg
+    url: https://es.vertilux.com/
+  - img: /u/marcas/cortizo.svg
+    url: https://www.cortizo.com/
+  - img: /u/marcas/mediterraneo-aluminio.svg
+    url: https://mediterraneoaluminio.com/
+  - img: /u/marcas/llaza.svg
+    url: https://www.llaza.com/
+  - img: /u/marcas/alugom.svg
+    url: https://alugom.es/
+  - img: /u/marcas/gaviota.svg
+    url: https://www.gaviotagroup.com/
+  - img: /u/marcas/strugal.svg
+    url: https://www.strugal.com/

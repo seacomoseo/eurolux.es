@@ -1,8 +1,9 @@
 name: Productos
-title: Productos
-subtitle: Diseño, Fabricación e Instalación
 color: light
 size: md
-icon: rectangle-vertical-history
-list:
-  type: category
+boxes:
+- title: Productos
+  sub: Diseño, Fabricación e Instalación
+  icon: web_stories
+  list:
+    type: category

@@ -1,15 +1,14 @@
 ---
 title: Puertas de Garaje
-seo: Puertas de Garaje en República Dominicana - Eurolux SRL
+seo:
+  title: Puertas de Garaje en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Puertas de Garaje ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: envolvente/puertas-garaje
-description: llll➤ Diseño, fabricación e instalación de Puertas de Garaje ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: envolvente/puertas-garaje/1.jpg
-draft: false
-noindex: false
+img: /u/envolvente/puertas-garaje/1.jpg
 category: envolvente
-icon: window-frame
+icon: window_closed
 gallery:
   cols: 1
-images:
-- envolvente/puertas-garaje/1.jpg
+imgs:
+- /u/envolvente/puertas-garaje/1.jpg
 ---

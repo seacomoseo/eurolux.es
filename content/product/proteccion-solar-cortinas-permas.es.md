@@ -1,25 +1,24 @@
 ---
 title: Cortinas Permas
-seo: Cortinas Permas en República Dominicana - Eurolux SRL
+seo:
+  title: Cortinas Permas en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Cortinas Permas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/cortinas-permas
-description: llll➤ Diseño, fabricación e instalación de Cortinas Permas ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: proteccion-solar/cortinas-permas/1.jpg
-draft: false
-noindex: false
+img: /u/proteccion-solar/cortinas-permas/1.jpg
 category: proteccion-solar
-icon: shutters
+icon: blinds
 gallery:
   cols: 2
-images:
-- proteccion-solar/cortinas-permas/1.jpg
-- proteccion-solar/cortinas-permas/2.jpg
-- proteccion-solar/cortinas-permas/9.jpg
-- proteccion-solar/cortinas-permas/10.jpg
-- proteccion-solar/cortinas-permas/11.jpg
-- proteccion-solar/cortinas-permas/28.jpg
-- proteccion-solar/cortinas-permas/29.jpg
-- proteccion-solar/cortinas-permas/30.jpg
-- proteccion-solar/cortinas-permas/12.jpg
+imgs:
+- /u/proteccion-solar/cortinas-permas/1.jpg
+- /u/proteccion-solar/cortinas-permas/2.jpg
+- /u/proteccion-solar/cortinas-permas/9.jpg
+- /u/proteccion-solar/cortinas-permas/10.jpg
+- /u/proteccion-solar/cortinas-permas/11.jpg
+- /u/proteccion-solar/cortinas-permas/28.jpg
+- /u/proteccion-solar/cortinas-permas/29.jpg
+- /u/proteccion-solar/cortinas-permas/30.jpg
+- /u/proteccion-solar/cortinas-permas/12.jpg
 ---
 Privacidad por dentro, visibilidad hacia afuera, la combinación perfecta.
 

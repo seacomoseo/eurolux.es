@@ -1,13 +1,11 @@
 ---
 slug: proteccion-solar
 title: Protección Solar
-summary: null # string
-# image: proteccion-solar/barandas/1.jpg
-icon: shutters
+sum: null # string
+# img: /u/proteccion-solar/barandas/1.jpg
+icon: blinds
 weight: 2
-toc: false
-draft: false
-noindex: false
-seo: Protección Solar en República Dominicana - Eurolux SRL
-description: llll➤ Diseño, fabricación e instalación de Protección Solar ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
+seo:
+  title: Protección Solar en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Protección Solar ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 ---

@@ -1,27 +1,28 @@
 name: Equipo
-title: Equipo
-subtitle: Responsables
 color: light
-icon: people-group
 size: md
-box:
-  cols: 2
-  gap: 4
-  gap_vs: 2
-  ratio: 1/1
-  line: true
 boxes:
-- image: nosotros/juan-carlos-tomas-gonzalez.jpg
-  title: Juan Carlos <br> Tomás González
-  subtitle: CEO (Director Ejecutivo)
-  link: https://www.linkedin.com/in/juan-carlos-tomas-a8437232
-  pin: linkedin
-  label: Linkedin
-  lock: true
-- image: nosotros/angela-caba-jimenez.jpg
-  title: Angela <br> Caba Jiménez
-  subtitle: CAO (Director Administrativo)
-  link: https://www.linkedin.com/in/angela-caba-jim%C3%A9nez-22283017b/
-  pin: linkedin
-  label: Linkedin
-  lock: true
+- title: Equipo
+  sub: Responsables
+  icon: groups_3
+  box:
+    cols: 2
+    gap: 4
+    gap_vs: 2
+    ratio: 1/1
+    line: y
+  boxes:
+  - img: /u/nosotros/juan-carlos-tomas-gonzalez.jpg
+    title: Juan Carlos <br> Tomás González
+    sub: CEO (Director Ejecutivo)
+    url: https://www.linkedin.com/in/juan-carlos-tomas-a8437232
+    pin: brand:linkedin
+    label: Linkedin
+    lock: y
+  - img: /u/nosotros/angela-caba-jimenez.jpg
+    title: Angela <br> Caba Jiménez
+    sub: CAO (Director Administrativo)
+    url: https://www.linkedin.com/in/angela-caba-jim%C3%A9nez-22283017b/
+    pin: brand:linkedin
+    label: Linkedin
+    lock: y

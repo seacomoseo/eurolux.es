@@ -1,13 +1,14 @@
 name: Taller
-title: Nuestro Taller
-subtitle: Cerramientos y Fachadas Thader
 color: light
-icon: screwdriver-wrench
-hanchor: Taller
-box:
-  cols: 3
-  gray: true
-  button: hide
 boxes:
-- image: marcas/cfthader.svg
-  link: https://www.cfthader.com/
+- title: Nuestro Taller
+  sub: Cerramientos y Fachadas Thader
+  icon: construction
+  hanchor: Taller
+  box:
+    cols: 3
+    gray: y
+    btn: hide
+  boxes:
+  - img: /u/marcas/cfthader.svg
+    url: https://www.cfthader.com/

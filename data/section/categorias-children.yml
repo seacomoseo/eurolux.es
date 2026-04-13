@@ -6,12 +6,12 @@ size: md
 pt: 0
 boxes:
 - if: taxonomy
-  params:
+  get:
   - from: filename
     to: list.{{ type }}
   list:
     type: all
 - if: '%%{{ eq page.Slug "interiorismo" }}%%'
-  icon: triangle-person-digging
-  icon_type: top
+  icon: warning
+  icon_pos: top
   title: En Construcción

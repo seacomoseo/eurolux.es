@@ -1,57 +1,56 @@
-title: Valores Globales
 menu:
-  image: base/logo.svg
+  img: /u/base/logo.svg
   items:
-  - link: /
+  - url: /
     label: Inicio
-    icon: house
-  - link: /#nosotros
+    icon: home
+  - url: /#nosotros
     label: Nosotros
-    icon: circle-info
-  # - link: /#equipo
+    icon: info
+  # - url: /#equipo
   #   label: Equipo
-  #   icon: people-group
-  - link: /#proyectos-destacados
+  #   icon: groups_3
+  - url: /#proyectos-destacados
     label: Destacados
     icon: crown
-  - link: /#productos
+  - url: /#productos
     label: Productos
-    icon: rectangle-vertical-history
+    icon: web_stories
     items:
-    - link: /productos/envolvente/
+    - url: /productos/envolvente/
       label: Envolvente
-      icon: window-frame
-    - link: /productos/proteccion-solar/
+      icon: window_closed
+    - url: /productos/proteccion-solar/
       label: Protección Solar
-      icon: shutters
-    - link: /productos/interiorismo/
+      icon: blinds
+    - url: /productos/interiorismo/
       label: Interiorismo y Decoración
-      icon: house-heart
-  - link: /#nos-caracteriza
+      icon: family_home
+  - url: /#nos-caracteriza
     label: Nos Caracteriza
     icon: star
-  # - link: /#taller
+  # - url: /#taller
   #   label: Taller
-  #   icon: screwdriver-wrench
-  - link: /#marcas
+  #   icon: construction
+  - url: /#marcas
     label: Marcas
-    icon: certificate
-  # - link: /#certificaciones
+    icon: verified
+  # - url: /#certificaciones
   #   label: Certificaciones
-  #   icon: badge-check
-  # - link: /#aliados
+  #   icon: verified
+  # - url: /#aliados
   #   label: Aliados
-  #   icon: handshake-simple
-  - link: /#resenas
+  #   icon: handshake
+  - url: /#resenas
     label: Reseñas
-    icon: comment
-  - link: /#contacto
+    icon: reviews
+  - url: /#contacto
     label: Contacto
-    icon: paper-plane
-    button: cta
+    icon: send
+    btn: cta
 footer:
   dots:
-  - link: https://g.page/r/CSUgV5RIKLWvEAg
-  - link: https://instagram.com/eurolux_srl
-  - link: https://www.linkedin.com/company/eurolux-srl/people/
-  - link: https://www.youtube.com/channel/UC-78JinGgWYkz6KG4T69qjw
+  - url: https://g.page/r/CSUgV5RIKLWvEAg
+  - url: https://instagram.com/eurolux_srl
+  - url: https://www.linkedin.com/company/eurolux-srl/people/
+  - url: https://www.youtube.com/channel/UC-78JinGgWYkz6KG4T69qjw

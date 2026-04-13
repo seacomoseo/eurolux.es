@@ -1,18 +1,12 @@
 title: Proyectos Destacados
+weight: 3
 base: page
 icon: crown
 emoji: 👑
-params:
-- var: box_gallery
-- var: box_gallery_images
+body: y
 tpl:
   sections:
   - file: proyectos-_header
   - file: proyectos-portfolio
   - file: proyectos-destacados
   - file: productos
-es:
-  permalinks: proyecto
-  slug: proyectos
-  singular: Proyecto Destacado
-  title: Proyectos Destacados

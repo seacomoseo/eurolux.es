@@ -1,24 +1,23 @@
 ---
 title: Toldos Retráctiles
-seo: Toldos Retráctiles en República Dominicana - Eurolux SRL
+seo:
+  title: Toldos Retráctiles en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Toldos Retráctiles ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/toldos-retractiles
-description: llll➤ Diseño, fabricación e instalación de Toldos Retráctiles ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: proteccion-solar/toldos-retractiles/1.jpg
-draft: false
-noindex: false
+img: /u/proteccion-solar/toldos-retractiles/1.jpg
 category: proteccion-solar
-icon: shutters
+icon: blinds
 gallery:
   cols: 3
-images:
-- proteccion-solar/toldos-retractiles/1.jpg
-- proteccion-solar/toldos-retractiles/2.jpg
-- proteccion-solar/toldos-retractiles/3.jpg
-- proteccion-solar/toldos-retractiles/4.jpg
-- proteccion-solar/toldos-retractiles/5.jpg
-- proteccion-solar/toldos-retractiles/6.jpg
-- proteccion-solar/toldos-retractiles/7.jpg
-- proteccion-solar/toldos-retractiles/8.jpg
+imgs:
+- /u/proteccion-solar/toldos-retractiles/1.jpg
+- /u/proteccion-solar/toldos-retractiles/2.jpg
+- /u/proteccion-solar/toldos-retractiles/3.jpg
+- /u/proteccion-solar/toldos-retractiles/4.jpg
+- /u/proteccion-solar/toldos-retractiles/5.jpg
+- /u/proteccion-solar/toldos-retractiles/6.jpg
+- /u/proteccion-solar/toldos-retractiles/7.jpg
+- /u/proteccion-solar/toldos-retractiles/8.jpg
 ---
 Uno de los productos más prácticos, de fácil accionamiento, sin obstáculos en medio.
 

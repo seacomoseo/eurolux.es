@@ -1,17 +1,16 @@
 ---
 title: Vidrios Control Solar
-seo: Vidrios Control Solar en República Dominicana - Eurolux SRL
+seo:
+  title: Vidrios Control Solar en República Dominicana - Eurolux SRL
+  desc: llll➤ Diseño, fabricación e instalación de Vidrios Control Solar ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: envolvente/vidrios-control-solar
-description: llll➤ Diseño, fabricación e instalación de Vidrios Control Solar ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
-image: envolvente/vidrios-control-solar/1.jpg
-draft: false
-noindex: false
+img: /u/envolvente/vidrios-control-solar/1.jpg
 category: envolvente
-icon: window-frame
+icon: window_closed
 gallery:
   cols: 4
-images:
-- envolvente/vidrios-control-solar/1.jpg
-- envolvente/vidrios-control-solar/2.jpg
-- envolvente/vidrios-control-solar/3.jpg
+imgs:
+- /u/envolvente/vidrios-control-solar/1.jpg
+- /u/envolvente/vidrios-control-solar/2.jpg
+- /u/envolvente/vidrios-control-solar/3.jpg
 ---

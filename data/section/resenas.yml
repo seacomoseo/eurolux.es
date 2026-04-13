@@ -1,12 +1,12 @@
 name: Resenas
-title: Reseñas
-subtitle: Lo que dicen de nosotros
 color: main-light
-icon: comment
 boxes:
+- title: Reseñas
+  sub: Lo que dicen de nosotros
+  icon: reviews
 - review:
     color: white
-    slider: true
+    slider: y
     time: 8
     cols: 3
   reviews:
@@ -55,6 +55,6 @@ boxes:
 - boxes:
   - md: |
       Más reseñas:
-      {.subtitle}
+      {.sub}
 
-      [[:star: Google]](https://g.page/r/CSUgV5RIKLWvEAg/review "[nofollow]")
+      [[::star:: Google]](https://g.page/r/CSUgV5RIKLWvEAg/review "[nofollow]")

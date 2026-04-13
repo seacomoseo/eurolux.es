@@ -1,21 +1,22 @@
 name: Proyectos ➡️ Header
 color: light
-bi: '{{ param image }}'
+bi: '{{ get img }}'
 alpha: 0.9
-box:
-  gap_ny: 2
 boxes:
-- image: base/logo.svg
-  fit: 0.25
-  fit_vs: 0.5
-- title: '{{ param title }}'
-  hanchor: 'Proyecto Destacado: {{ param title }}'
-  caps: true
-  subtitle: Proyecto Destacado
-  icon_type: bottom
-  md: |
-    {{% content %}}
+- box:
+    gap_ny: 2
+  boxes:
+  - img: /u/base/logo.svg
+    fit: 0.25
+    fit_vs: 0.5
+  - title: '{{ get title }}'
+    hanchor: 'Proyecto Destacado: {{ get title }}'
+    caps: y
+    sub: Proyecto Destacado
+    icon_pos: sub
+    md: |
+      {{% content %}}
 
-    [[:plus: Más]](#more)
-  params:
-  - to: icon
+      [[::add:: Más]](#more)
+    get:
+    - to: icon

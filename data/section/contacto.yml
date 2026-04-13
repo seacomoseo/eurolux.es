@@ -1,52 +1,52 @@
 name: Contacto
-title: Contacto
-subtitle: Resuelve tus dudas sin compromiso
 color: white
 size: sm
-icon: paper-plane
-menu_button: cta
-contact:
-- type: schedule
-  days: Lunes a Viernes
-  hours: 8:00 - 19:00
-- type: br
-- type: phone
-  label: +1 829 515 2662
-  swap: true
-- type: whatsapp
-  label: +1 829 515 2662
-  swap: true
-  button: cta
-- type: address
-  button: light
-  label: Punta Cana 23000, República Dominicana
-  anchor: Eurolux SRL, Calle Marcio Maggiolo, Los Corales, 23000 Bavaro, Punta Cana
-  link: https://g.page/r/CSUgV5RIKLWvEAg
-  full: true
-- type: custom
-  link: https://instagram.com/eurolux_srl
-  label: '@eurolux_srl'
-  icon: instagram
-  swap: true
-  button: dark
-- type: mail
-  label: info@eurolux.es
-  full: false
-  button: dark
-inputs:
-- type: text
-  name: Nombre
-  required: true
-- type: tel
-  name: Teléfono
-  required: true
-- type: email
-  name: Email
-  required: true
-- type: text
-  name: Producto
-  required: false
-- type: textarea
-  name: Mensaje
-  label: Preguntas o comentarios
-  required: true
+menu_btn: cta
+boxes:
+- title: Contacto
+  sub: Resuelve tus dudas sin compromiso
+  icon: send
+  when:
+  - days: Lunes a Viernes
+    hours: 8:00 - 19:00
+  links:
+  - type: phone
+    label: +1 829 515 2662
+    swap: y
+  - type: whatsapp
+    label: +1 829 515 2662
+    swap: y
+    btn: cta
+  - type: address
+    btn: light
+    label: Punta Cana 23000, República Dominicana
+    anchor: Eurolux SRL, Calle Marcio Maggiolo, Los Corales, 23000 Bavaro, Punta Cana
+    url: https://g.page/r/CSUgV5RIKLWvEAg
+    full: y
+  - type: custom
+    url: https://instagram.com/eurolux_srl
+    label: '@eurolux_srl'
+    icon: brand:instagram
+    swap: y
+    btn: dark
+  - type: mail
+    label: info@eurolux.es
+    full: n
+    btn: dark
+  inputs:
+  - type: text
+    name: Nombre
+    req: y
+  - type: phone
+    name: Teléfono
+    req: y
+  - type: mail
+    name: Email
+    req: y
+  - type: text
+    name: Producto
+    req: n
+  - type: area
+    name: Mensaje
+    label: Preguntas o comentarios
+    req: y

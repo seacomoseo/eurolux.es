@@ -1,5 +1,5 @@
 baseURL: https://eurolux.es
-buildFuture: false
+buildFuture: n
 theme: [sansoul]
 params:
   domain: eurolux.es
@@ -7,5 +7,5 @@ params:
   netlify_id: 84dc6fe8-efba-4bde-adcb-c22575f45767
   netlify_hook: NjM0N2UwNzliYmU1OTcwZWEwZTAzZGEz
   cloudflare_id: 
-  drive_link: https://drive.google.com/file/d/1CjLhC3_sgnNgCas6pYR_uRBbdGL-bCjl
+  drive_url: https://drive.google.com/file/d/1CjLhC3_sgnNgCas6pYR_uRBbdGL-bCjl
   drive_mails: angela.caba26@gmail.com

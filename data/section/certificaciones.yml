@@ -1,25 +1,26 @@
 name: Certificaciones
-title: Certificaciones
-subtitle: De nuestros proveedores
 color: light
-icon: badge-check
-box:
-  cols: 6
-  cols_vs: 2
-  gap: 2
-  gray: true
-  ratio: 3/2
-  button: hide
 boxes:
-- image: certificados/iso-9001-2015.svg
-  link: https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es
-- image: certificados/qualanod.svg
-  link: https://www.qualanod.net/
-- image: certificados/qualicoat.svg
-  link: https://www.qualicoat.net/
-- image: certificados/applus.svg
-  link: https://www.appluscertification.com/
-- image: certificados/reach.svg
-  link: https://europa.eu/youreurope/business/product-requirements/chemicals/registering-chemicals-reach/index_es.htm
-- image: certificados/ce.svg
-  link: https://europa.eu/youreurope/business/product-requirements/labels-markings/ce-marking/index_es.htm
+- title: Certificaciones
+  sub: De nuestros proveedores
+  icon: verified
+  box:
+    cols: 6
+    cols_vs: 2
+    gap: 2
+    gray: y
+    ratio: 3/2
+    btn: hide
+  boxes:
+  - img: /u/certificados/iso-9001-2015.svg
+    url: https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es
+  - img: /u/certificados/qualanod.svg
+    url: https://www.qualanod.net/
+  - img: /u/certificados/qualicoat.svg
+    url: https://www.qualicoat.net/
+  - img: /u/certificados/applus.svg
+    url: https://www.appluscertification.com/
+  - img: /u/certificados/reach.svg
+    url: https://europa.eu/youreurope/business/product-requirements/chemicals/registering-chemicals-reach/index_es.htm
+  - img: /u/certificados/ce.svg
+    url: https://europa.eu/youreurope/business/product-requirements/labels-markings/ce-marking/index_es.htm

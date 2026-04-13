@@ -1,47 +1,48 @@
 name: Productos ➡️ Informacion Velarias
 if: velarias
-hanchor: Más Información
 color: white
 pt: 0
 size: md
-align: center
-box:
-  gap_ny: 3
 boxes:
-- box:
-    cols: 5
-    cols_vs: 2
-    hs: 6
+- hanchor: Más Información
+  align: center
+  box:
+    gap_ny: 3
   boxes:
-  - icon: cloud-sun-rain
-    title: Resistencia a la intemperie
-  - icon: fire-flame-simple
-    title: Resistencia al fuego
-  - icon: screwdriver-wrench
-    title: Fácil mantenimiento
-  - icon: hourglass
-    title: Durabilidad
-  - icon: feather-pointed
-    title: Ligeras y Elegantes
-- boxes:
-  - subtitle: Utilizadas en...
-- box:
-    cols: 5
-    cols_vs: 2
-    hs: 6
-  boxes:
-  - icon: hotel
-    title: Hoteles
-  - icon: plane-up
-    title: Aeropuertos
-  - icon: tree-city
-    title: Proyectos comerciales
-  - icon: house-tree
-    title: Proyectos residenciales
-  - icon: landmark
-    title: Espacios públicos
-- boxes:
-  - md: |
-      Entre otros...
+  - box:
+      cols: 5
+      cols_vs: 2
+      hs: 6
+    boxes:
+    - icon: partly_cloudy_day
+      title: Resistencia a la intemperie
+    - icon: local_fire_department
+      title: Resistencia al fuego
+    - icon: construction
+      title: Fácil mantenimiento
+    - icon: hourglass
+      title: Durabilidad
+    - icon: airwave
+      title: Ligeras y Elegantes
+  - boxes:
+    - sub: Utilizadas en...
+  - box:
+      cols: 5
+      cols_vs: 2
+      hs: 6
+    boxes:
+    - icon: apartment
+      title: Hoteles
+    - icon: flight
+      title: Aeropuertos
+    - icon: source_environment
+      title: Proyectos comerciales
+    - icon: playground
+      title: Proyectos residenciales
+    - icon: account_balance
+      title: Espacios públicos
+  - boxes:
+    - md: |
+        Entre otros...
 
-      Pueden ser fabricadas en membrana textil Vertilux®, con 5 años de garantía.
+        Pueden ser fabricadas en membrana textil Vertilux®, con 5 años de garantía.

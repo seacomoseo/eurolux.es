@@ -1,0 +1,19 @@
+
+
+- types: [ product ]
+  var: gallery
+
+- types: [ product ]
+  var: imgs
+
+- types: [ product ]
+  name: velarias
+  label: Velarias
+  hint: Activa la información con iconos por columnas de las velarias
+  widget: bool
+
+- types: [ project ]
+  var: gallery
+
+- types: [ project ]
+  var: imgs

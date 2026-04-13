@@ -1,11 +1,11 @@
-title: Páginas
+title: Páginas Simples
 weight: 100
 tpl:
   list:
     color: white
-    card: false
-    image: hide
-    icon: file
+    card: n
+    img: hide
+    icon: insert_drive_file
     hs: 3
-    pin: plus
-    button: cta
+    pin: add
+    btn: cta
