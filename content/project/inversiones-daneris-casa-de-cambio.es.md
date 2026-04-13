@@ -1,6 +1,6 @@
 ---
 slug: inversiones-daneris-casa-de-cambio
-title: Casa de Cambio Inversiones Daneris
+title: Inversiones Daneris
 img: /u/inversiones-danerys.webp
 seo:
   title: Casa de Cambio Inversiones Daneris | Carpintería de Aluminio Eurolux
