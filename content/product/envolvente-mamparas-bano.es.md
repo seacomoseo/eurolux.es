@@ -1,16 +1,16 @@
 ---
-title: Mamparas de Baño
-seo:
-  title: Mamparas de Baño en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Mamparas de Baño ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: envolvente/mamparas-bano
+title: Mamparas de Baño
 img: /u/envolvente/mamparas-bano/1.jpg
-category: envolvente
 icon: window_closed
+seo:
+  title: Mamparas de Baño en República Dominicana — Eurolux SRL
+  desc: Mamparas de baño y ducha de aluminio y vidrio europeo. Diseño moderno, fabricación e instalación en toda República Dominicana. Solicita tu presupuesto gratis.
 gallery:
   cols: 4
 imgs:
 - /u/envolvente/mamparas-bano/1.jpg
 - /u/envolvente/mamparas-bano/2.jpg
 - /u/envolvente/mamparas-bano/3.jpg
+category: envolvente
 ---
