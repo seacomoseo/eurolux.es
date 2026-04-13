@@ -1,18 +1,17 @@
 ---
-title: Toldos Parqueos
-seo:
-  title: Toldos Parqueos en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Toldos Parqueos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/toldos-parqueos
+title: Toldos Parqueos
 img: /u/proteccion-solar/toldos-parqueos/1.jpg
-category: proteccion-solar
 icon: blinds
+seo:
+  title: Toldos para Parqueos en República Dominicana — Eurolux SRL
+  desc: Toldos y cubiertas para estacionamientos y parqueos. Estructuras metálicas con lona de alta resistencia para proyectos comerciales y residenciales en toda República Dominicana. Presupuesto gratis.
 gallery:
   cols: 2
 imgs:
-- /u/proteccion-solar/toldos-parqueos/1.jpg
-- /u/proteccion-solar/toldos-parqueos/2.jpg
-- /u/proteccion-solar/toldos-parqueos/3.jpg
+- /u/_mg_3742.webp
+- /u/_mg_3743.webp
+- /u/img_1871.MOV
 - /u/proteccion-solar/toldos-parqueos/4.jpg
 - /u/proteccion-solar/toldos-parqueos/6.jpg
 - /u/proteccion-solar/toldos-parqueos/7.jpg
@@ -22,7 +21,9 @@ imgs:
 - /u/proteccion-solar/toldos-parqueos/11.jpg
 - /u/proteccion-solar/toldos-parqueos/5.jpg
 - /u/proteccion-solar/toldos-parqueos/12.jpg
+category: proteccion-solar
 ---
+
 Protege tus vehículos de las inclemencias del clima.
 
 Variedad de diseños que se adapta a cada espacio, toldos personalizados.
