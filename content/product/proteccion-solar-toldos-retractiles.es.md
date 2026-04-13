@@ -1,12 +1,11 @@
 ---
-title: Toldos Retráctiles
-seo:
-  title: Toldos Retráctiles en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Toldos Retráctiles ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/toldos-retractiles
+title: Toldos Retráctiles
 img: /u/proteccion-solar/toldos-retractiles/1.jpg
-category: proteccion-solar
 icon: blinds
+seo:
+  title: Toldos Retráctiles en República Dominicana — Eurolux SRL
+  desc: Toldos retráctiles motorizados y manuales de aluminio europeo para terrazas, restaurantes y hoteles. Fabricación e instalación en toda República Dominicana. Presupuesto gratis.
 gallery:
   cols: 3
 imgs:
@@ -18,7 +17,9 @@ imgs:
 - /u/proteccion-solar/toldos-retractiles/6.jpg
 - /u/proteccion-solar/toldos-retractiles/7.jpg
 - /u/proteccion-solar/toldos-retractiles/8.jpg
+category: proteccion-solar
 ---
+
 Uno de los productos más prácticos, de fácil accionamiento, sin obstáculos en medio.
 
 Completamente personalizable en dimensiones y colores perfecto para conjugar la protección solar con una moderna estética.
