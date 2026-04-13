@@ -1,6 +1,6 @@
 ---
 slug: cana-rock-universe-hard-rock-punta-cana
-title: Cana Rock Universe — Complejo Hard Rock Punta Cana
+title: Cana Rock Universe
 img: /u/edcicion-00_01_37_18-imagen-fija005.webp
 imgs:
 - /u/edcicion-00_01_58_15-imagen-fija008.webp
