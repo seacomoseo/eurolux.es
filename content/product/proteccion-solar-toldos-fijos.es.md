@@ -1,12 +1,11 @@
 ---
-title: Toldos Fijos
-seo:
-  title: Toldos Fijos en República Dominicana - Eurolux SRL
-  desc: llll➤ Diseño, fabricación e instalación de Toldos Fijos ✅ y todo tipo de envolvente y fachada ligera para su proyecto.
 slug: proteccion-solar/toldos-fijos
+title: Toldos Fijos
 img: /u/proteccion-solar/toldos-fijos/1.jpg
-category: proteccion-solar
 icon: blinds
+seo:
+  title: Toldos Fijos en República Dominicana — Eurolux SRL
+  desc: Toldos fijos de aluminio y lona europea para terrazas, fachadas y exteriores. Protección solar permanente para proyectos residenciales y hoteleros en toda República Dominicana. Presupuesto gratis.
 gallery:
   cols: 2
 imgs:
@@ -17,4 +16,5 @@ imgs:
 - /u/proteccion-solar/toldos-fijos/5.jpg
 - /u/proteccion-solar/toldos-fijos/6.jpg
 - /u/proteccion-solar/toldos-fijos/7.jpg
+category: proteccion-solar
 ---
