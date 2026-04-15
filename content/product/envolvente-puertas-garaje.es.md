@@ -1,7 +1,7 @@
 ---
 slug: envolvente/puertas-garaje
 title: Puertas de Garaje
-img: /u/img_9171.mov
+img: /u/envolvente/puertas-garaje/1.jpg
 icon: window_closed
 seo:
   title: Puertas de Garaje de Aluminio en República Dominicana — Eurolux SRL
@@ -9,6 +9,7 @@ seo:
 gallery:
   cols: 1
 imgs:
-- /u/img_9155.mov
+- /u/img_9171.mp4
+- /u/img_9155.mp4
 category: envolvente
 ---
