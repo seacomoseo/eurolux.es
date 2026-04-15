@@ -17,8 +17,8 @@ imgs:
 - /u/proteccion-solar/shutters-anticiclonicos/7.jpg
 - /u/proteccion-solar/shutters-anticiclonicos/8.jpg
 - /u/proteccion-solar/shutters-anticiclonicos/2.jpg
-- /u/img_3893.MOV
-- /u/img_3897.MOV
+- /u/img_3893.mov
+- /u/img_3897.mov
 category: proteccion-solar
 ---
 

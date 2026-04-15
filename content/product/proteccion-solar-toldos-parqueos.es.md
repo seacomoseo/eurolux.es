@@ -11,7 +11,7 @@ gallery:
 imgs:
 - /u/_mg_3742.webp
 - /u/_mg_3743.webp
-- /u/img_1871.MOV
+- /u/img_1871.mov
 - /u/proteccion-solar/toldos-parqueos/4.jpg
 - /u/proteccion-solar/toldos-parqueos/6.jpg
 - /u/proteccion-solar/toldos-parqueos/7.jpg

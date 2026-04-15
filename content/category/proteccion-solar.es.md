@@ -1,7 +1,6 @@
 ---
 slug: proteccion-solar
 title: Protección Solar
-sum: null # string
 # img: /u/proteccion-solar/barandas/1.jpg
 icon: blinds
 weight: 2

@@ -12,7 +12,7 @@ imgs:
 - /u/proteccion-solar/palilleria/1.jpg
 - /u/702d7cf8-b4c0-4c48-b614-23fe4362ad43.webp
 - /u/proteccion-solar/palilleria/8.jpg
-- /u/img_9177.MOV
+- /u/img_9177.mov
 - /u/image00007.webp
 - /u/proteccion-solar/palilleria/11.jpg
 - /u/img_4863.webp

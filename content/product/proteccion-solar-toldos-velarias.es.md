@@ -12,7 +12,7 @@ imgs:
 - /u/img_6150.webp
 - /u/img_6148.webp
 - /u/img_5972.webp
-- /u/img_0208.MOV
+- /u/img_0208.mov
 - /u/diseno-sin-titulo-14.webp
 - /u/img_5844-effects.webp
 - /u/img_5929.webp

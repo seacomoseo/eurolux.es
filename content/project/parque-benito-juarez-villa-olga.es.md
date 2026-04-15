@@ -1,5 +1,5 @@
 ---
-slug: parque-benito-juarez-villa-olga-
+slug: parque-benito-juarez-villa-olga
 title: Parque Benito Juárez
 img: /u/img_6148.webp
 imgs:
@@ -8,7 +8,7 @@ imgs:
 - /u/drone-3.webp
 - /u/drone-4.webp
 - /u/img_6150.webp
-- /u/img_5269.MP4
+- /u/img_5269.mp4
 ---
 
 Intervención arquitectónica en espacio público mediante tenso estructura ejecutada para la Alcaldía de Santiago en coordinación con Lujo Modular. La solución incorpora membrana textil RECAFLEX PRO de fabricación europea, certificada bajo norma ISO 9001:2008, con protección UV e impermeabilidad garantizada. Un proyecto que combina diseño contemporáneo, durabilidad y funcionalidad en entorno urbano tropical.

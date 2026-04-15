@@ -1,7 +1,6 @@
 ---
 slug: interiorismo
 title: Interiorismo
-sum: null # string
 # img: /u/interiorismo/barandas/1.jpg
 icon: family_home
 weight: 3

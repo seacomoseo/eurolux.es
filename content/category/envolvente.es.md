@@ -1,7 +1,6 @@
 ---
 slug: envolvente
 title: Envolvente
-sum: null # string
 # img: /u/envolvente/barandas/1.jpg
 icon: window_closed
 weight: 1
